@@ -1,51 +1,61 @@
 audit_header: false
 title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
-show_custom_links: false
+show_custom_links: true
 custom_links:
-  - title:
-    url:
+  - title: Schedule a Meeting with Me
+    url: https://calendly.com/robertmack
 show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
     url:
 
 client:
-  name:
+  name: Robert Mack
   title:
-  license_number:
+  license_number: CA BRE# 01734565
   about_markdown: |
+    All of our clients come with a real story and no two clients we work with are ever alike.  Everyone is unique and that’s what makes real estate so interesting and exciting at the Robert Mack Group.  There isn’t a one size fits all approach, and it truly takes a talented group of individuals working together as a team to create structure in an industry full of chaos, emotion, excitement, and fear!
 
+    Maybe you’re a terrified first time home buyer and scraping together everything you have just to own your own home?  You could be a family of 3 or 4 running out of the room, and it’s time to upgrade to a bigger home?  Maybe you tried to sell once and weren’t able to and now you need a new approach.  Have your kids all grown up and moved out, and you are sick of taking care of such a big home and it’s time to get a smaller place?  Maybe you just got married, or are going through a divorce?  Life is unpredictable sometimes. There are so many stories and we’ve heard and seen almost everything but every now and then we get approached by a client with a scenario we’ve never come across….and that’s where we shine!
+
+    Real estate is more than just opening doors or showing homes.  It’s not just about putting a sign out front of your home and putting it online.  It’s about people.  People who need help to buy or sell a home for one reason or another.
+
+    My wife, Tania, and I are team leaders at the Robert Mack Group @ Keller Williams International.  Our team consists of 6 individuals that work together to make sure every client we work with has an unparalleled customer experience from the moment we meet.
+
+    If you are looking to sell your current home, buy a new home, or both, we'd like to learn more.  There is never any cost or obligation to meet with us for a private consultation, to determine if we are the right fit for you.
+
+    To get a better feel for who we are and how we can help, please take a moment to read a few of our past client reviews.
   brand:
-  brokerage:
+  brokerage: Keller Williams Realty
   market:
-  address:
-  phone:
+  address: 4010 Barranca Park Way, Suite 100 Irvine, CA 92604
+  phone: 949-209-7309
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: robertm@robertmackgroup.com
+  url: http://www.irvinerealestatelink.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.searchforhomesinoc.com/homevalue/Irvine
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: https://www.searchforhomesinoc.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.searchforhomesinoc.com/homevalue/Irvine
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: https://www.searchforhomesinoc.com/
 
 lender:
   show_section: false
@@ -94,8 +104,8 @@ images:
   post_cta_image2: /img/home-search.jpg
 
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#9D9185'
+  theme_color: '#000000'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
