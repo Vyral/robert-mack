@@ -5,10 +5,10 @@ show_custom_links: true
 custom_links:
   - title: Schedule a Meeting with Me
     url: https://calendly.com/robertmack
-show_custom_links_new_tab: false
+show_custom_links_new_tab: true
 custom_links_new_tab:
-  - title:
-    url:
+  - title: Testimonials
+    url: /testimonials/
 
 client:
   name: Robert Mack
