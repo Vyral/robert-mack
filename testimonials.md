@@ -28,5 +28,5 @@ permalink: /testimonials/
 
 
 <p>
-<a href="http://www.robertmackreviews.com">Read Even More Testimonials!</a>
+<a href="http://www.robertmackreviews.com"><strong>Read Even More Testimonials!</strong></a>
 </p>
