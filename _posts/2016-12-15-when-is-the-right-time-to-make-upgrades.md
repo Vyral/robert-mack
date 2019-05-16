@@ -5,7 +5,8 @@ date: 2016-12-15 00:00:00
 tags:
   - Real Estate
 excerpt:
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Robert+Mack/Orange+County+Real+Estate+Agent+When+Is+the+Right+Time+to+Make+Upgrades.mp4
 pullquote: Don’t make upgrades you won’t be able to enjoy.
 enclosure_type: video/mp4
 enclosure_time:
