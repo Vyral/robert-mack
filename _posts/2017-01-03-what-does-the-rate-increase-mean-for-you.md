@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does the Rate Increase Mean for You?
-date: 2019-05-16 18:46:34
+date: 2017-01-03 18:46:00
 tags:
   - Real Estate
 excerpt: >-
