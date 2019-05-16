@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   What are the most important things to consider when searching for a home? I’ll
   go over the top three today.
-enclosure:
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Robert+Mack/Orange+County+Real+Estate+Agent+The+3+things+buyers+care+about+most.mp4
 pullquote: >-
   These are the three things about a home that you don't have  the ability to
   change.
