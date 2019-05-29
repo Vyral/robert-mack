@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's the Goal of a Home Inspection?
-date: 2019-05-29 20:48:05
+date: 2017-11-14 10:48:00
 tags:
   - Home Buyer Tips
 excerpt: >-
