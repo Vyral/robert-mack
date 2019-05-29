@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'If Your Listing Expires, Should You Use the Same Agent to Relist?'
-date: 2019-05-29 20:49:47
+date: 2017-11-14 10:00:00
 tags:
   - Real Estate
 excerpt: 'If your listing expires, do you need a new agent to relist it?'
