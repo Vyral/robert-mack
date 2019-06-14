@@ -20,7 +20,7 @@ youtube_code: MoO9DhAspzk
 
 Today, I want to pose an important question: What is your timeline?
 
-<br>My marketing team and I have been conducting some research recently, and we’ve found that there are three primary stages in the real estate timeline that buyers tend to follow as they prepare to make a home purchase. Let’s take a look at each of these stages.
+My marketing team and I have been conducting some research recently, and we’ve found that there are three primary stages in the real estate timeline that buyers tend to follow as they prepare to make a home purchase. Let’s take a look at each of these stages.
 
 **1\. &nbsp;Awareness.** We’ve found that people in this stage tend to be between 18 to 24 years old. This is the stage where a person may have considered the notion of buying a home but haven’t really gotten serious about doing so. People often become very comfortable with where they’re at in life. Sometimes, they become too comfortable. In order to move past the awareness stage, you must be proactive.
 
