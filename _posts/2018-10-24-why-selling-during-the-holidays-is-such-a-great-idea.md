@@ -27,7 +27,7 @@ However, as a professional Realtor, I can confidently say that this isn’t real
 
 {% include pullquote.html %}
 
-<br>I’ve written in the past on this subject before, when I compiled a list of the top nine reasons to list during the holidays, and I’d like to return to this topic today. If you’d like a copy of my past article on the subject, I’d be happy to send one to you, but for now I’ll be sharing just three main points:
+I’ve written in the past on this subject before, when I compiled a list of the top nine reasons to list during the holidays, and I’d like to return to this topic today. If you’d like a copy of my past article on the subject, I’d be happy to send one to you, but for now I’ll be sharing just three main points:
 
 **1\. Buyers are more motivated during the holidays.** It may be true that fewer buyers are on the market during this time of year, but the ones who are out and looking will be much more driven. After all, people choosing to spend their holidays searching for a new home are obviously doing so for a good reason.
 
