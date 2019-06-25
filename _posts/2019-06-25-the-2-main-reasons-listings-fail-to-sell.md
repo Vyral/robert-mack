@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 2 Main Reasons Listings Fail to Sell
-date: 2019-06-25 16:24:40
+date: 2019-06-25 16:24:00
 tags:
   - Home Seller Tips
 excerpt: >-
