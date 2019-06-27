@@ -21,7 +21,7 @@ youtube_code: VjtSAQqtmdY
 
 Interest rates are actually sub-4% right now. **The last few clients we have worked with have been able to lock in rates in the 3% range.**
 
-Is it a good time to buy right now? Here’s what I tell everyone that I come across: First of all, **you can never time the market perfectly.** Second of all, **if you’re not an investor, don’t think like one.** You’re buying a home to live in and there are so many benefits to doing so, if you want to buy a house and you can afford to buy a house, then you should buy a house.
+Is it a good time to buy right now? Here’s what I tell everyone that I come across: First of all, **you can never time the market perfectly.** Second of all, **if you’re not an investor, don’t think like one.** You’re buying a home to live in and there are so many benefits to doing so. If you want to buy a house and you can afford to buy a house, then you should buy a house.
 
 The great thing about low interest rates is that when you’re buying a property, it’s never about the purchase price. It’s about the monthly payment. Whether you pay $5,000 more or $5,000 less than you wanted to, at the end of the day, what matters is your monthly payment. The lower the interest rate you have, the lower your payment will be. **If that number is within your comfort zone with these low rates, then now is the time to buy.**
 
