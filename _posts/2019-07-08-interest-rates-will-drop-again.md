@@ -19,7 +19,7 @@ youtube_code: uNVborku_c8
 
 Chief economists have recently reported that 175,000 fewer jobs were created this year than what was projected. In other words, the economy is not in as good a position as you might think. This development does bring some good news, though. Namely, **interest rates are expected to soon reach figures never before seen in real estate history.** And low rates mean a high level of opportunity for homebuyers. Even a small change in interest rates can greatly impact affordability.
 
-Low interest rates mean great things for sellers, as well. Although there still isn’t a lot of inventory, throngs buyers have been incentivized to make a move as a result of these low rates. In other words, **demand has shot up despite the current lack of supply.** However, this might not continue to be the case if supply grows significantly over the next few months. We will see a shift in the market eventually, whether it comes in six, 12, or 18 months. And when this shift occurs, prices will likely flatten out.&nbsp;
+Low interest rates mean great things for sellers, as well. Although there still isn’t a lot of inventory, throngs of buyers have been incentivized to make a move as a result of these low rates. In other words, **demand has shot up despite the current lack of supply.** However, this might not continue to be the case if supply grows significantly over the next few months. We will see a shift in the market eventually, whether it comes in six, 12, or 18 months. And when this shift occurs, prices will likely flatten out.&nbsp;
 
 {% include pullquote.html %}
 
