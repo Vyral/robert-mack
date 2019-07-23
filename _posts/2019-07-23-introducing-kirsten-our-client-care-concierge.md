@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Introducing Kirsten, Our Client Care Concierge'
-date: 2019-07-23 20:26:27
+date: 2019-07-23 20:26:00
 tags:
   - Real Estate
 excerpt: Our new Client Care Concierge will help you with any needs you have.
