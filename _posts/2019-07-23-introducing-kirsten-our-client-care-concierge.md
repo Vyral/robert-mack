@@ -16,13 +16,13 @@ youtube_code: 'https://youtu.be/x_9_Ai2pGo4'
 
 {% include youtube.html %}
 
-At the Robert Mack Group, we’ve made an exciting new addition to our team. Kirsten \_\_\_\_ is joining us as our first ever Client Care Concierge.
+At the Robert Mack Group, we’ve made an exciting new addition to our team. Kirsten \_\_\_\_ is joining us as our first-ever Client Care Concierge.
 
 What inspired this addition? Let me tell you a quick story about a mentor of mine named Bill.
 
-Bill is very loyal to Delta Airlines. He flies all the time, and because he’s so loyal to them, he’s one of their preferred customers. Compared to regular customers, airlines go above and beyond to give top-quality service to preferred customers. Bill was once on a flight that had a layover, but on that flight he realized that he wasn’t going to make his next flight because the first one had a delayed start.&nbsp;
+Bill is very loyal to Delta Airlines. He flies all the time, and because he’s so loyal to them, he’s one of their preferred customers. Compared to regular customers, airlines go above and beyond to give top-quality service to preferred customers. Bill was once on a flight that had a layover; when it was delayed, he realized that he wasn’t going to make his next one.&nbsp;
 
-If you’ve ever missed a flight before, you know it can be a bummer. You have to wait anywhere from a few hours to a couple of days to get back on track. Here’s where the story gets cool, though: As soon as the plane landed and Bill stepped off, there was someone waiting for him on the tarmac with a Porsche Cayenne. As it turns out, Delta knew he was in danger of missing his connecting flight, so they sent someone to escort him personally to the next gate before the plane took off.&nbsp;
+If you’ve ever missed a flight before, you know it can be a bummer. You have to wait anywhere from a few hours to a couple of days to get back on track. Here’s where the story gets cool, though: As soon as the plane landed and Bill stepped off, someone was waiting for him on the tarmac with a Porsche Cayenne. As it turns out, Delta knew he was in danger of missing his connecting flight, so they sent someone to escort him personally to the next gate before the plane took off.&nbsp;
 
 {% include pullquote.html %}
 
@@ -34,6 +34,6 @@ If you’ve ever missed a flight before, you know it can be a bummer. You have t
 
 At the end of the day, buying or selling a home can be a stressful situation, and over the last three or four years, our goal has been to make sure our clients have an amazing experience. We’re trying to create predictability and high customer satisfaction.&nbsp;
 
-From now on, you’ll be hearing from Kirsten from time to time to make sure their your needs are being met. **We wouldn’t be where we are without you, and we appreciate your support.&nbsp;**
+From now on, you’ll be hearing from Kirsten from time to time to make sure that your needs are being met. **We wouldn’t be where we are without you, and we appreciate your support.&nbsp;**
 
 If you have any questions about this or any other real estate topic, don’t hesitate to reach out to us. I hope to talk to you soon. Until then, happy selling\!
