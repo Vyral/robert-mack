@@ -16,7 +16,7 @@ youtube_code: 'https://youtu.be/x_9_Ai2pGo4'
 
 {% include youtube.html %}
 
-At the Robert Mack Group, we’ve made an exciting new addition to our team. Kirsten \_\_\_\_ is joining us as our first-ever Client Care Concierge.
+At the Robert Mack Group, we’ve made an exciting new addition to our team. Kirsten Kellett is joining us as our first-ever Client Care Concierge.
 
 What inspired this addition? Let me tell you a quick story about a mentor of mine named Bill.
 
