@@ -5,7 +5,8 @@ date: 2019-07-23 20:26:00
 tags:
   - Real Estate
 excerpt: Our new Client Care Concierge will help you with any needs you have.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Introducing+Kirsten%2C+Our+Client+Care+Concierge.mp4
 pullquote: We’re trying to create predictability and high customer satisfaction.
 enclosure_type: video/mp4
 enclosure_time:
