@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Relisting Your Home? You Need a New Strategy
-date: 2019-08-05 14:47:52
+date: 2019-08-05 14:47:00
 tags:
   - Real Estate
 excerpt: >-
