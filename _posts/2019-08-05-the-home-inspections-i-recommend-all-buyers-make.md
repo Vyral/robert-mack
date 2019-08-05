@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Home Inspections I Recommend All Buyers Make
-date: 2019-08-05 14:36:17
+date: 2019-08-05 14:36:00
 tags:
   - Home Buyer Tips
 excerpt: >-
