@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When Home Sellers Need to Get Realistic
-date: 2019-08-05 14:42:45
+date: 2019-08-05 14:42:00
 tags:
   - Home Seller Tips
 excerpt: >-
