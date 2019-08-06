@@ -25,7 +25,7 @@ If you’re in the process of buying a home, what kind of inspections should you
 
 **A lot of agents will hire a general home inspector during this time and proceed based on their report, but the situation isn’t always as cut and dry as that.** What kind of specific inspections should you order to guarantee there are no surprises after escrow closes, then? To give you an idea, I’ll tell what kind of inspections my team and I order for our buyers in this situation.&nbsp;
 
-If you’re looking to buy a condo, the answer is pretty straightforward. You don’t own the exterior of the building and the roof and foundation are likely owned by the homeowners association, **so you really only need a general inspection.** That being said, if our buyer’s inspector recommends that we hire an electrician, plumber, etc., to address any issues they can’t determine, we’ll take that next step.&nbsp;
+If you’re looking to buy a condo, the answer is pretty straightforward. You don’t own the exterior of the building and the roof and foundation are likely owned by the homeowners association, **so you really only need a general inspection.** That being said, if our buyer’s inspector recommends that we hire an electrician, plumber, etc., to address any issues they can’t identify, we’ll take that next step.&nbsp;
 
 {% include pullquote.html %}
 
@@ -35,4 +35,4 @@ After that, we’ll order a sewer line inspection. This is an inspection that ve
 
 Again, if the general inspector finds a problem with the electrical or plumbing system, they may recommend a specialist, but these are the three inspections we start with.&nbsp;
 
-If you have any more questions about this topic or you have a topic in mind you’d like to see me address in a future video, don’t hesitate to reach out to me. Until then, happy selling\!
+If you have any more questions about this topic or you have a topic in mind you’d like to see me address in a future video, don’t hesitate to reach out to me.
