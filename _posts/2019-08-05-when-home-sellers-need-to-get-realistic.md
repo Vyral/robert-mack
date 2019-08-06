@@ -15,14 +15,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/7-19-2---robert-mack---youtube.jpg
-youtube_code: 'https://youtu.be/dRsmnYmWXXo'
+youtube_code: 8n27wudV2hA
 ---
 
 {% include youtube.html %}
 
 If you’re thinking of selling your home, your home is already on the market but hasn’t sold, or you tried to sell it once and failed, there’s one question you need to ask yourself: **Is it time to get realistic?**
 
-If you have a great agent with a great marketing plan, your home shows well, and you’ve priced it appropriately, this question doesn’t apply to you. However, 35% of all home sellers out there have homes that comprise what we call “stale inventory,” meaning they’ve sat on the market for anywhere from 40 to 60 days and they’re still not selling.&nbsp;
+If you have a great agent with a great marketing plan, your home shows well, and you’ve priced it appropriately, this question doesn’t apply to you. However, 35% of all home sellers out there have homes that are what we call “stale inventory,” meaning they’ve sat on the market for anywhere from 40 to 60 days and they’re still not selling.&nbsp;
 
 As we know, there are three keys to selling a home for record price:&nbsp;
 
