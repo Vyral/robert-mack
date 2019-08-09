@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you’re in the process of buying a home, here are the home inspections I
   recommend you make.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/The+Home+Inspections+I+Recommend+All+Buyers+Make.mp4
 pullquote: >-
   If the general inspector finds a problem with the electrical or plumbing
   system, they may recommend a specialist, but these are the three inspections
