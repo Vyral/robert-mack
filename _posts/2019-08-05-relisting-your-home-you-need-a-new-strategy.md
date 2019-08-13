@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   If you listed your home before but it didn’t sell, you need a new strategy for
   the next time you put it on the market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Relisting+Your+Home_+You+Need+a+New+Strategy.mp4
 pullquote: >-
   My team and I are experts at relisting homes that failed to sell and selling
   them in record time for a record profit.
