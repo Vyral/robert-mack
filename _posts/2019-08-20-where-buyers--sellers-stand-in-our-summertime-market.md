@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Where Buyers & Sellers Stand in Our Summertime Market
-date: 2019-08-20 21:03:17
+date: 2019-08-20 21:03:00
 tags:
   - Market Update
   - Home Buyer Tips
