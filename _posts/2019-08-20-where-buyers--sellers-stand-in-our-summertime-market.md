@@ -40,6 +40,6 @@ Another unique statistic I’ve found is that inventory has only increased about
 
 **If you’re a seller, remember that there are three reasons homes sell: price, preparation, and exposure (i.e., marketing).** Now more than ever, you must put an attractive price tag on your home when you list it. If it’s not compelling, it’s not selling. We’re learning that buyers don’t want to spend too much more than what the last home in your area sold for, so keep that in mind as well.&nbsp;
 
-Every micro-markets different, so if you have any questions about what’s happening in your specific neighborhood or you’re thinking of buying or selling, don’t hesitate to reach out to me. I’d love to be a resource to you or anyone you know.&nbsp;
+Every micro-market's different, so if you have any questions about what’s happening in your specific neighborhood or you’re thinking of buying or selling, don’t hesitate to reach out to me. I’d love to be a resource to you or anyone you know.&nbsp;
 
 Until then—happy selling\!
