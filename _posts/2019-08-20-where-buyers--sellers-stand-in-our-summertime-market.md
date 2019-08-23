@@ -9,7 +9,8 @@ tags:
 excerpt: >-
   We’re moving toward a more normalized market in Orange County, which is good
   news for buyers.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Where+Buyers+%26+Sellers+Stand+in+Our+Summertime+Market.mp4
 pullquote: >-
   If you can negotiate a great price on the property you want (which there’s a
   good chance of), you’ll also get an amazingly low interest rate.
