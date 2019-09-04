@@ -3,7 +3,7 @@ layout: post
 title: 'If Your Home Failed to Sell, Are You Sure It Was the Price?'
 date: 2019-09-04 13:54:00
 tags:
-  - Real Estate
+  - Home Seller Tips
 excerpt: >-
   There are a lot of reasons a home fails to sell, but oftentimes it boils down
   to the work of the agent.
