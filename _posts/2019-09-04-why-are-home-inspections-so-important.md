@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Are Home Inspections So Important
-date: 2019-09-04 13:48:46
+date: 2019-09-04 13:48:00
 tags:
   - Home Buyer Tips
 excerpt: >-
