@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are Zillow’s Zestimates Accurate?
-date: 2019-09-04 14:00:38
+date: 2019-09-04 14:00:00
 tags:
   - Real Estate
 excerpt: >-
