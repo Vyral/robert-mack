@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/9-3-3---robert-mack---youtube.jpg
-youtube_code: 'https://youtu.be/H65TwMa0TfQ'
+youtube_code: 8z59YSyO4_c
 ---
 
 {% include youtube.html %}
