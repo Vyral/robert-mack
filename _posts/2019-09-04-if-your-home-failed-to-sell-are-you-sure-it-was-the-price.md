@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'If Your Home Failed to Sell, Are You Sure It Was the Price?'
-date: 2019-09-04 13:54:52
+date: 2019-09-04 13:54:00
 tags:
   - Real Estate
 excerpt: >-
