@@ -34,7 +34,7 @@ So if the price isn’t to blame for your home failing to sell, you have to ask 
 
 **About 35% of all home sellers who come off the market still need to sell, so if you fall into this category, please get in touch with us.** We want to learn more about what was done to try and get your home sold and offer our expert advice and fill in the blanks. We want to know more about your goals, because nine times out of 10, we have a solution for you.&nbsp;
 
-Getting in touch in this case is the hardest part, because owners of expired listings can get anywhere from 60 to 100 phone calls. This makes agents like us, who truly want to help you, a needle in the haystack. We know it can be overwhelming to have all this attention from other agents, but having options is good, and it’s worth a shot to give someone the chance to present a different approach to your home sale.&nbsp;
+Getting in touch, in this case, is the hardest part, because owners of expired listings can get anywhere from 60 to 100 phone calls. This makes agents like us, who truly want to help you, a needle in the haystack. We know it can be overwhelming to have all this attention from other agents, but having options is good, and it’s worth a shot to give someone the chance to present a different approach to your home sale.&nbsp;
 
 The fact is, **not all agents are created equal.** There’s no minimum standard in this industry—all you have to do to become a real estate agent is take a couple of classes and get your license. Some agents are great at what they do; others have no idea what they’re doing. Unless you interview multiple candidates to sell your home, you might get stuck with one who doesn’t do a good job for you. Fortunately, that’s where we come in.
 
