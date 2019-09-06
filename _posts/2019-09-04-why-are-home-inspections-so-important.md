@@ -36,7 +36,7 @@ There are a couple things home inspections provide you that you need to be aware
 
 The first is **awareness**. The seller doesn’t have to make any repairs or offer any credits (more on that below), so if you become aware of certain issues and the seller doesn’t agree to repair them or offer a credit for them, you have to decide whether you still feel comfortable buying at the current price.&nbsp;
 
-The second is **request for repairs**. If you come across an issue that’s a safety or health hazard, you can make a request for repair or use a credit form and negotiate a solution with the seller so you’re not stuck dealing with the issue yourself. This can go both ways. If you’re getting a good deal on the property, the seller might not be inclined to make the repair or offer credit. If you’re paying at or over list price, they might reconsider.&nbsp;
+The second is the&nbsp;**request for repairs**. If you come across an issue that’s a safety or health hazard, you can make a request for repair or use a credit form and negotiate a solution with the seller so you’re not stuck dealing with the issue yourself. This can go both ways. If you’re getting a good deal on the property, the seller might not be inclined to make the repair or offer credit. If you’re paying at or over list price, they might reconsider.&nbsp;
 
 Every situation is different, and everything is negotiable. There’s no one-size-fits-all method to handling inspections. When you work with the Robert Mack Group, though, we’ve got you covered. We have anywhere from 11 to 13 inspectors on our vendor list who we can call to make sure you’re protected during your purchase and your home is in good shape.&nbsp;
 
