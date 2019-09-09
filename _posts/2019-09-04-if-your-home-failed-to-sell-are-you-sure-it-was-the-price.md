@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There are a lot of reasons a home fails to sell, but oftentimes it boils down
   to the work of the agent.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/If+Your+Home+Failed+to+Sell%2C+Are+You+Sure+It+Was+the+Price.mp4
 pullquote: >-
   About 35% of all home sellers who come off the market still need to sell, so
   if you fall into this category, please get in touch with us.
