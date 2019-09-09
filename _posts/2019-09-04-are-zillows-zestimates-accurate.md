@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   I like Zillow, but their Zestimates aren’t as accurate as you might
   think—here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Are+Zillows+Zestimates+Accurate_.mp4
 pullquote: >-
   What a home is worth on paper and what a Realtor can sell it for are two very
   different things, which is why you must hire a Realtor to accurately assess
