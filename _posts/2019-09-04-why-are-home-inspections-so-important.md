@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Home inspections are a critical part of the home buying process. If you’re a
   buyer, here’s why.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Why+Are+Home+Inspections+So+Important_.mp4
 pullquote: >-
   As a buyer, you have the right to do any inspection you want for the home
   you’re buying.
