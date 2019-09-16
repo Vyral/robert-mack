@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Would a Recession Mean for the Real Estate Market?
-date: 2019-09-16 15:21:28
+date: 2019-09-16 15:21:00
 tags:
   - Market Update
 excerpt: >-
