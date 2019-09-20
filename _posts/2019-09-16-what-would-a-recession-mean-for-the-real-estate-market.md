@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Just because there are predictions of a recession doesn’t mean prices will
   fall. Here’s what I mean.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/What+Would+a+Recession+Mean+for+the+Real+Estate+Market_.mp4
 pullquote: >-
   In three of the five recessions we’ve been through in the past 40 years, home
   prices went up.
