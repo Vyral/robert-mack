@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Really Better Off Waiting Until Next Year to Sell?
-date: 2019-09-30 19:13:24
+date: 2019-09-30 19:13:00
 tags:
   - Home Seller Tips
 excerpt: >-
