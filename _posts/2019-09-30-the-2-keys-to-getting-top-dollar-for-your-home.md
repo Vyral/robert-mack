@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 2 Keys to Getting Top Dollar for Your Home
-date: 2019-09-30 19:40:18
+date: 2019-09-30 19:40:00
 tags:
   - Home Seller Tips
 excerpt: >-
