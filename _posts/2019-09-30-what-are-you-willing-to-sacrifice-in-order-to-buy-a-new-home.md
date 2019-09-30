@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are You Willing to Sacrifice in Order to Buy a New Home?
-date: 2019-09-30 19:08:13
+date: 2019-09-30 19:08:00
 tags:
   - Home Buyer Tips
 excerpt: >-
