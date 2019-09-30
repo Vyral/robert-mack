@@ -18,6 +18,8 @@ youtube_code: 'https://youtu.be/KMqoNC9NjjM'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Buying a new home in our market means you may need to sacrifice. Here’s what I mean by that.</em></p>
+
 What are you willing to sacrifice in order to buy a new home?
 
 As our market tightens and shifts, buyers and sellers tend to get pickier. In the last few months, we’ve seen transactions where both parties came to a standstill during negotiations when they were just a few thousand dollars apart. I always tell my clients that if they’re spending upwards of $750,000 or $1 million on a property, a few thousand dollars shouldn’t stand in the way of them getting what they want.&nbsp;
