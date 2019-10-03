@@ -13,12 +13,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/robert-mack-selling-in-2019-vs-waiting-youtube.png
-youtube_code: 'https://youtu.be/xAbbUaJW4QQ'
+youtube_code: xf3rU1dQPKs
 ---
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>If your home failed to sell recently, you’re not necessarily better off waiting until 2020 to try again. Here’s why.</em></p>
+*If your home failed to sell recently, you’re not necessarily better off waiting until 2020 to try again. Here’s why.*
 
 If you tried selling your home in the recent past and your listing was withdrawn, canceled, or expired, you’re probably thinking you’d rather wait until 2020 to try listing again.&nbsp;
 
