@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/UZGXT6hMnn8'
 
 {% include youtube.html %}
 
-*Your home’s list price and how it shows are the two keys to focus on if you want to sell it for top dollar.*
+<p style="text-align: center;"><em>Your home’s list price and how it shows are the two keys to focus on if you want to sell it for top dollar.</em></p>
 
 There’s a lot that goes into selling a home for top dollar. First of all, you have to work with the right agent and the right team to make sure they assist you in executing your plan.
 
