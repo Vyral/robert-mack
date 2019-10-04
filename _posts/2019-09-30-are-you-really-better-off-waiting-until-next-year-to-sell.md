@@ -19,7 +19,7 @@ youtube_code: xf3rU1dQPKs
 
 {% include youtube.html %}
 
-*If your home failed to sell recently, you’re not necessarily better off waiting until 2020 to try again. Here’s why.*
+<p style="text-align: center;"><em>If your home failed to sell recently, you’re not necessarily better off waiting until 2020 to try again. Here’s why.</em></p>
 
 If you tried selling your home in the recent past and your listing was withdrawn, canceled, or expired, you’re probably thinking you’d rather wait until 2020 to try listing again.&nbsp;
 
