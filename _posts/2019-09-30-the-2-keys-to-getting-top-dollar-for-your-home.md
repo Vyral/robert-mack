@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Your home’s list price and how it shows are the two keys to focus on if you
   want to sell it for top dollar.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/The+2+Keys+to+Getting+Top+Dollar+for+Your+Home.mp4
 pullquote: >-
   About 92% of all buyers will see your home online before they visit it, and if
   it doesn’t look great online, they might not want to see it in person.
@@ -20,7 +21,7 @@ youtube_code: 'https://youtu.be/UZGXT6hMnn8'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Your home’s list price and how it shows are the two keys to focus on if you want to sell it for top dollar.</em></p>
+*Your home’s list price and how it shows are the two keys to focus on if you want to sell it for top dollar.*
 
 There’s a lot that goes into selling a home for top dollar. First of all, you have to work with the right agent and the right team to make sure they assist you in executing your plan.
 
