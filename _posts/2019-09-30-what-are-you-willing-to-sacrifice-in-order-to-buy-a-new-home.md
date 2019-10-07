@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Buying a new home in our market means you may need to sacrifice. Here’s what I
   mean by that.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/What+Are+You+Willing+to+Sacrifice+in+Order+to+Buy+a+New+Home_.mp4
 pullquote: Think about what you’re willing to sacrifice for the greater good.
 enclosure_type: video/mp4
 enclosure_time:
@@ -18,7 +19,7 @@ youtube_code: 'https://youtu.be/KMqoNC9NjjM'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Buying a new home in our market means you may need to sacrifice. Here’s what I mean by that.</em></p>
+*Buying a new home in our market means you may need to sacrifice. Here’s what I mean by that.*
 
 What are you willing to sacrifice in order to buy a new home?
 
