@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/KMqoNC9NjjM'
 
 {% include youtube.html %}
 
-*Buying a new home in our market means you may need to sacrifice. Here’s what I mean by that.*
+<p style="text-align: center;"><em>Buying a new home in our market means you may need to sacrifice. Here’s what I mean by that.</em></p>
 
 What are you willing to sacrifice in order to buy a new home?
 
