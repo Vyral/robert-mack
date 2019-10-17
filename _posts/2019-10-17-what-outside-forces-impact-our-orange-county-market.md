@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Outside Forces Impact Our Orange County Market?
-date: 2019-10-17 16:13:49
+date: 2019-10-17 16:13:00
 tags:
   - Real Estate
 excerpt: >-
