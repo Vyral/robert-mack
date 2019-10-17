@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/cMkb3yZ_Xj8'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Many people think that facts and figures are the best way to judge the market, but there’s more to the story than this. Let’s discuss.</em></p>
+
 Often when people think about the state of our real estate market, they tend to take into account the obvious factors like the number of available homes, the political climate, local employment trends, and other such points of interest. However, what few people fail to consider is that there are many external factors at play.&nbsp;
 
 Don’t get me wrong: **Keeping trends like interest rates and appreciation rates in mind is certainly a good idea, but it’s also important to account for human error.** Even real estate professionals can sometimes get the facts wrong. Let’s say you’re thinking of selling, but have been dragging your feet on making a move. By the time you get around to listing, there are suddenly four or five other properties for sale in your neighborhood. As unlikely as this might sound, it happens. There is no way to precisely predict what’s going to happen in our market—especially on a hyper-local level.&nbsp;
