@@ -18,6 +18,8 @@ youtube_code: 'https://youtu.be/jFD1xVi7l2s'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>If your home previously did not sell, we have the options you need.</em></p>
+
 Did you try to sell your home but were unsuccessful? Are you looking for more options? Whether the home was withdrawn, canceled, or expired, you may still need to sell.&nbsp;
 
 What’s probably happening is you’re getting battered with mail, texts, emails, and phone calls from dozens of agents telling you why they’re the best, why your last agent was horrible, and why they’re the ones who can help you achieve your goals. There are 16,000 agents in Orange Country and last year only 400 of them sold 10 homes or more. **95% to 98% of these agents that are contacting you do not have the expertise required** to help you get your home sold for the best price and in the time you want it because they haven’t been in the business long enough. This is not a favorable market for someone who does not have a strategy.&nbsp;
