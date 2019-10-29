@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Focusing on Price or Monthly Payment?
-date: 2019-10-29 20:16:53
+date: 2019-10-29 20:16:00
 tags:
   - Home Buyer Tips
 excerpt: >-
