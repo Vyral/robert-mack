@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Reasons Why Now Is the Time to Sell
-date: 2019-10-29 20:28:45
+date: 2019-10-29 20:28:00
 tags:
   - Home Seller Tips
 excerpt: My five reasons why it may be a wonderful time to sell your home.
