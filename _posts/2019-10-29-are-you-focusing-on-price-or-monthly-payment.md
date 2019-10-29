@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/hn1VJ0odXEk'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Buyers: Are you too focused on the price of the home rather than your monthly payment? Let’s discuss this.</em></p>
+
 When considering your budget for buying a home are you concentrating on price or monthly payment? Early in my career one of my mentors told me that price is a one-time thing but monthly payments are a monthly thing. That’s what’s going to determine your affordability.&nbsp;
 
 Many times the buyers we meet are sticking to a specific number when **the truth is that different loan programs can offer you different price options.** Based on your risk tolerance, you could potentially afford more home and still have a lower monthly payment.&nbsp;
