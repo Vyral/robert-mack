@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Were You Unsuccessful in Selling Your Home?
-date: 2019-10-29 20:23:03
+date: 2019-10-29 20:23:00
 tags:
   - Home Seller Tips
   - Real Estate
