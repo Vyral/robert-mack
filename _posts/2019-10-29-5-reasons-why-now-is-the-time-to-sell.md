@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/gEUaik41NxI'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>My five reasons why it may be a wonderful time to sell your home.</em></p>
+
 Is now a great time to sell? Are you a seller trying to time the market perfectly? Honestly, it’s impossible to time the market just right. Most of my clients who have timed the market perfectly, it was simply luck.&nbsp;
 
 As we approach the holidays, clients say they’re a bit concerned: Thanksgiving is around the corner, Christmas is coming up, New Year’s, elections, and so on. They ask, “Do you think we should wait until next year? Do you think we’ll be able to get more for our home?” I tell everyone the same thing: I don’t have a crystal ball. All I can do is provide the best guidance based on the market now, present my estimations of what’s going to happen, and what I’m seeing in the market place, but it’s never a guarantee.&nbsp;
