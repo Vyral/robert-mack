@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/robert-mack-how-to-get-more-options-to-sell-youtube.png
-youtube_code: 'https://youtu.be/jFD1xVi7l2s'
+youtube_code: 'https://youtu.be/8lZAvdLBgAo'
 ---
 
 {% include youtube.html %}
