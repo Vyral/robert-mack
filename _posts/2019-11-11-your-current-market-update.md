@@ -18,6 +18,8 @@ youtube_code: 'https://youtu.be/vZ439LCwCpQ'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Today I’m sharing our current market update and what the imminent recession may mean for our market.</em></p>
+
 Is the bubble about to pop? That’s what everyone’s talking about. Today I’m sharing our market update. I’ll be discussing the imminent recession and how that may affect housing. Also, Thanksgiving is right around the corner and this is a special time of year where many of us get to take time off to relish time with family or celebrate any holidays we prefer. So, I wanted to quickly wish everyone a happy holiday season\! Now, onto the market update I promised.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:&nbsp;**
