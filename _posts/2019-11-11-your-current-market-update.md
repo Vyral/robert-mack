@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Current Market Update
-date: 2019-11-11 14:40:03
+date: 2019-11-11 14:40:00
 tags:
   - Market Update
 excerpt: >-
