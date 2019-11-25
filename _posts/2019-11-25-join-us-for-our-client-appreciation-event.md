@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Join Us for Our Client Appreciation Event
-date: 2019-11-25 19:49:52
+date: 2019-11-25 19:49:00
 tags:
   - Real Estate
 excerpt: >-
