@@ -19,6 +19,6 @@ youtube_code: 'https://youtu.be/fjYpKiaLy18'
 
 {% include youtube.html %}
 
-You are cordially invited to our RMG client appreciation event. Join us on December 14 at Irvine Lanes Bowling Alley (3415 Michelson Dr.) from 12 p.m. to 2 p.m. This event is for all of you who have helped us on our journey and have allowed us to help you. You’ve shown us love, so we want to show it back. Please RSVP to Kristy@robertmackgroup.com with how many people you plan on bringing. We’ll have pizza, sodas, plenty of bowling, and a special gift for everyone in attendance.&nbsp;
+You are cordially invited to our RMG client appreciation event. Join us on December 14 at Irvine Lanes Bowling Alley (3415 Michelson Dr.) from 12 p.m. to 2 p.m. This event is for all of you who have helped us on our journey and have allowed us to help you. You’ve shown us love, so we want to show it back. Please RSVP to [Kristy@robertmackgroup.com](mailto:Kristy@robertmackgroup.com) with how many people you plan on bringing. We’ll have pizza, sodas, plenty of bowling, and a special gift for everyone in attendance.&nbsp;
 
 If you ever have any questions about real estate, please feel free to reach out to me by phone or email. I would be happy to help you.
