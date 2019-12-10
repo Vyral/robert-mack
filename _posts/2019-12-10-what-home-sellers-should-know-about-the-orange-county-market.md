@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/r6xsyCrdFPU'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>The highest price you can get for your home sale changes depending on the market. Here’s where we’re at right now.</em></p>
+
 I work with a lot of homeowners who are interested in selling their properties, and **one of the biggest challenges I’ve found is that many of these people struggle with selling their property for less than what it has sold for in the past.** Let me explain.
 
 The market hit its peak in 2018, and we saw a shift starting to happen in 2019. **In some areas of Orange County, homes are selling for less than they would have earlier in the year or back in 2018.** The market is shifting based on interest rates, the upcoming election, and more.&nbsp;
