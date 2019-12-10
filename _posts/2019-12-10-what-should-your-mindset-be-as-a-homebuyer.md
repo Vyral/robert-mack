@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Should Your Mindset Be as a Homebuyer?
-date: 2019-12-10 17:24:59
+date: 2019-12-10 17:24:00
 tags:
   - Home Buyer Tips
 excerpt: >-
