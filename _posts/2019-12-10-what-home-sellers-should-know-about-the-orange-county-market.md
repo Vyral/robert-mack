@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Home Sellers Should Know About the Orange County Market
-date: 2019-12-10 17:30:15
+date: 2019-12-10 17:30:00
 tags:
   - Home Seller Tips
 excerpt: >-
