@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/0I32bn5rIP4'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Although many homebuyers out there are concerned about the market, they shouldn’t be. Here’s why.</em></p>
+
 If you’re a homebuyer, I’m sure you have some concerns about what’s going on in the market. It’s probably nothing new to you, but I think it’s something we should continually discuss in order to control the narrative. If you’re watching TV, you need to understand that their job is to sell excitement and to sell ads. Therefore, they will always be talking about doom and gloom.&nbsp;
 
 The same goes for social media. Lately, it’s been a lot of talk about the “impending recession” and the “looming housing crisis.” In fact, 57% of buyers believe that a recession will affect the housing market as bad as or worse than in 2007 and 2008. **The data just doesn’t support that, but at the end of the day, that’s the mindset of the buyer community in general.**
