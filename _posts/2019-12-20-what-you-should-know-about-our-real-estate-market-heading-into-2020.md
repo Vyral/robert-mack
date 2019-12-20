@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/E_Cai3EJ39g'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Our market has seen some interesting changes as of late. Here’s what you need to know.</em></p>
+
 Today I’ve got a market update with you for Orange County real estate. As we begin a new decade, I wanted to bring you the latest numbers and dive into what they really mean in today’s climate.&nbsp;
 
 **Here’s an outline of the discussion, which you can watch it in its entirety above or skip around to the section(s) that interest you the most:**
