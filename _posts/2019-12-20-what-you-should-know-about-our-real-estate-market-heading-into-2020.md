@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What You Should Know About Our Real Estate Market Heading Into 2020
-date: 2019-12-20 16:16:48
+date: 2019-12-20 16:16:00
 tags:
   - Market Update
 excerpt: >-
