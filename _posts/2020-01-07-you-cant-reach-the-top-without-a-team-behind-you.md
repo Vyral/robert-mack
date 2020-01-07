@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You Can’t Reach the Top Without a Team Behind You
-date: 2020-01-07 19:55:40
+date: 2020-01-07 19:55:00
 tags:
   - Real Estate
 excerpt: >-
