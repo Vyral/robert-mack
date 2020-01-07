@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/ZU0-FitYEfs'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Whether you’re a buyer or seller, you need a team to help you achieve your real estate goals.</em></p>
+
 How will a team help you get to the top?
 
 Before I answer that question, allow me to share a quick story. In March 2018, one of my extended team members—my business coach—told me he wanted to climb Mount Aconcagua, the tallest peak in South America, later that December and wanted to know if I’d come along. I’d always been an avid outdoorsman and loved camping, but I’d never heard of Mount Aconcagua, so I told him I’d have to learn more about it first.&nbsp;
