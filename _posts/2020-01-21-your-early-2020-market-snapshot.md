@@ -20,7 +20,9 @@ youtube_alternate_image: /uploads/robert-mack-market-update-2020-youtube.jpg
 youtube_code: _dTGaOnG0KA
 ---
 
-{% include youtube.html %}&nbsp;
+{% include youtube.html %}
+
+<p style="text-align: center;"><em>Inventory is low in our Orange County market—here’s what this means for buyers and sellers.</em></p>
 
 Where are all the homes for sale? We’re in the early stages of 2020, and a lot of things seem to be predictable at this point, but there are some important developments in our Orange County market that you need to know. Inventory is low, but what does that mean for buyers and sellers? In today’s market update, I’ll answer this question and more.&nbsp;
 
