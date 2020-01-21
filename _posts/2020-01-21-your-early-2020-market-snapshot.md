@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Early 2020 Market Snapshot
-date: 2020-01-21 18:04:27
+date: 2020-01-21 18:04:00
 tags:
   - Home Seller Tips
   - Home Buyer Tips
