@@ -22,6 +22,8 @@ youtube_code: 'https://youtu.be/eszVUYb8kZU'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>For those who failed to sell their home the first time around, I’m highlighting the three most important things to consider before trying again.</em></p>
+
 35% of people who try unsuccessfully to sell their home will relist within a couple of months. I’m a proponent of auditing your last attempt before giving it another shot: Was there an issue with your pricing strategy? Did your agent fail to drum up enough attention for the home? Did you not plan for a certain trend in the market?
 
 It’s tough to pinpoint what went wrong, but I highly recommend sellers interview other agents for a fresh perspective. **Going back to the same agent may not be the best approach.&nbsp;**
