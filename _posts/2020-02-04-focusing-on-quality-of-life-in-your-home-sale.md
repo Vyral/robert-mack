@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Focusing on Quality of Life in Your Home Sale
-date: 2020-02-04 21:12:35
+date: 2020-02-04 21:12:00
 tags:
   - Home Seller Tips
 excerpt: >-
