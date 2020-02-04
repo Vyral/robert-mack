@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buyers: Why More Is Actually Less'
-date: 2020-02-04 21:05:44
+date: 2020-02-04 21:05:00
 tags:
   - Home Buyer Tips
 excerpt: >-
