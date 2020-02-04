@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/y_iTI3QFLUQ'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>We’ve all heard the expression, “Less is more,” but what do I mean when I say the reverse?</em></p>
+
 We’ve all heard the expression, “Less is more,” but what do I mean when I say the reverse?&nbsp;
 
 If you’re a buyer out there, there are a few things you’ll want to know about our current market. Inventory is about 40% lower than it was at this time last year. Interest rates are almost a full percentage point lower than this time last year. So there’s a massive amount of demand but simply not enough homes out there to satisfy.&nbsp;
