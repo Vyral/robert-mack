@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/AhdOZtRHDeg'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Today I’m sharing a real-life example of why sellers should never leave the quality of life out of their home-selling equation.</em></p>
+
 Although 90% of the people I work with are not investors, I find that many of them think like investors, asking questions like, “When’s the best time to list so that we can get the most amount of money?” or “How can we position our home on the market to maximize our sale?”
 
 Of course, those things are important, but **what a lot of homeowners don't do enough of is focus on their quality of life.** In other words, what is your quality of life in your current home, and how will that change when you move into a home that’s better for you?&nbsp;
