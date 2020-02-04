@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Know When Putting Your Home Back on the Market
-date: 2020-02-04 21:18:06
+date: 2020-02-04 21:18:00
 tags:
   - Home Seller Tips
 excerpt: >-
