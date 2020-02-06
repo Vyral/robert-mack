@@ -10,8 +10,7 @@ excerpt: >-
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Buyers-+Why+More+Is+Actually+Less.mp4
 pullquote: >-
-  My clients were comfortable paying a little more to secure a highly
-  sought-after home now, knowing that it would go for money the
+  My clients were comfortable paying a little more to secure a highly sought-after home now, knowing that it would go for more money the next time it’s sold on the market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -37,7 +36,7 @@ This property was listed for $750,000. After we looked at what other similar hom
 
 My clients admitted to feeling as though they paid too much for the home—a sentiment I do understand. However, a couple of weeks later, the exact same home model came onto the MLS at $790,000 and, after receiving tons of offers, went under contract just shy of $800,000.&nbsp;
 
-This is where the ‘more is less’ mantra comes into play: My clients were comfortable paying a little more to secure a highly sought-after home now, knowing that it would go for money the next time it’s sold on the market.&nbsp;
+This is where the ‘more is less’ mantra comes into play: My clients were comfortable paying a little more to secure a highly sought-after home now, knowing that it would go for more money the next time it’s sold on the market.&nbsp;
 
 **Though they offered more, they’re still paying a lot less than the next person in line who tried to get the same type of home.** Alas, more is less\!&nbsp;
 
