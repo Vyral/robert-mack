@@ -27,7 +27,7 @@ Although 90% of the people I work with are not investors, I find that many of th
 
 Of course, those things are important, but **what a lot of homeowners don't do enough of is focus on their quality of life.** In other words, what is your quality of life in your current home, and how will that change when you move into a home that’s better for you?&nbsp;
 
-Here’s a real-life example to drive my point home: I met a client last week who lives in a three-level property, and whose parents live in that third level. Mom and Dad are older, and their knees don’t work so well; they’re exhausted from having to march up and down two stories’ worth of stairs every day.&nbsp;
+Here’s a real-life example to drive my point home: I met a client last week who lives in a three-level property, and whose parents live in that third level. Mom and dad are older, and their knees don’t work so well; they’re exhausted from having to march up and down two stories’ worth of stairs every day.&nbsp;
 
 Despite their parents’ dissatisfaction, my client was more concerned with timing the market to get top dollar on their home sale. My response to their market questions is simple: How is your quality of life? How is the third-floor bedroom affecting your parents? Is selling for an extra 1% to 2% worth their continued unhappiness?&nbsp;
 
