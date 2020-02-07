@@ -17,7 +17,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/robert-mack-newsletter-3-putting-your-home-back-on-the-market-youtube.jpg
-youtube_code: 'https://youtu.be/eszVUYb8kZU'
+youtube_code: 'https://youtu.be/5oX0Vj4xgIs'
 ---
 
 {% include youtube.html %}
