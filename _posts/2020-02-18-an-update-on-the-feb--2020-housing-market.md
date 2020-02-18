@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/YBhUjkfsKjU'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>In the housing market, everything always takes longer than you think. Here’s what I mean.</em></p>
+
 Before I get into today’s housing market update, I want to tell you a quick story:
 
 I’ve always struggled with my weight. I used to ask a friend of mine what he was doing to stay in shape. He responded by saying, “Don’t overcomplicate it—eat less and workout more.
