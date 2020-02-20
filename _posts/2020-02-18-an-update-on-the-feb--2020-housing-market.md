@@ -25,11 +25,11 @@ youtube_code: 'https://youtu.be/YBhUjkfsKjU'
 
 Before I get into today’s housing market update, I want to tell you a quick story:
 
-I’ve always struggled with my weight. I used to ask a friend of mine what he was doing to stay in shape. He responded by saying, “Don’t overcomplicate it—eat less and workout more.
+I’ve always struggled with my weight. I used to ask a friend of mine what he was doing to stay in shape. He responded by saying, “Don’t overcomplicate it—eat less and workout more."
 
 Our tendency to overcomplicate things can manifest everywhere, even these market updates, so today I’ll keep it as simple as possible:
 
-For homebuyers, **interest rates are historically low.** Buyers with 15-year mortgages are locking in rates in the 2s, and those with 30-year mortgages are locking in rates in the low to high 3s, depending on their financial situations. That means now is a great time to borrow money and to buy a home.
+For homebuyers, **interest rates are historically low.** Buyers with 15-year mortgages are locking in rates in the 2% range, and those with 30-year mortgages are locking in rates in the low to high 3% range, depending on their financial situations. That means now is a great time to borrow money and to buy a home.
 
 **The downside for buyers in the market is that inventory is also historically low**, meaning there just aren’t as many homes available on the market as there are buyers searching for them. This makes it a bit more challenging to find a great home now than it would’ve been in recent years. That’s just the way the market is; I tell all my buying clients that all we can do is the best we can in the current conditions.
 
