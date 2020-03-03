@@ -20,6 +20,8 @@ youtube_code: 'https://youtu.be/aAh7rNNpWkM'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Buying a home in this market can be tough, but if you’re willing to offer a little bit more upfront, you can see huge benefits in the long-term. Here’s why.</em></p>
+
 I’m not sure what it costs you to go out for a night on the town, but for me and my wife, a nice dinner will cost us somewhere between $70 and $80, possibly up to $150 if we have some drinks. At the end of the night, we’re always satisfied with our meal, but we’re also second-guessing ourselves, wondering if we should have just saved that money and used it for something else.
 
 **I’m not saying you shouldn’t ever go out and have fun, but more often than not, it’s shocking how many clients we have who qualify for a certain price point, find a property that’s below that point, and end up getting stuck on a number.**
