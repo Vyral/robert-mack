@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/7k_wKuF-4cY'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Every home seller wants to maximize their final sale price. Here’s our best strategy for doing so.</em></p>
+
 Traditionally, home sellers meet with an agent, look at comparable sales, look at your current competition, consider the aspects of the market in your area, consider interest rates, then generally come up with a price that you think your home is worth.
 
 **We already know that a home is worth whatever a buyer is willing to pay for it.** If you think your home is worth $1 million, but you can’t get anyone to pay $1 million, then it’s not worth $1 million in the end. You have to come up with a price that your home will sell for based on what a buyer thinks it’s worth.
