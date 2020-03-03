@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/gVk3KsKZF5g'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>If your home has failed to sell in the past and you blamed the market, I have news for you: The real culprit is your motivation and your strategy.</em></p>
+
 If you’re a current home seller who is having a hard time selling, or a homeowner who has failed to sell in the past, it’s not the market—it’s your strategy. Let me explain:
 
 **I talk to a lot of homeowners who have tried to sell in the past unsuccessfully and their No. 1 scapegoat is the market.** Does the market play a massive role in what you sell your home for? Absolutely. Can you sell a home for a lot more when the market’s hot? Yes. However, there is one thing I want you to think about.
