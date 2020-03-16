@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/Tktycdn988o'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Interest rates are lower than I ever thought they would be. Here’s what that means for you.</em></p>
+
 The buzz around town right now has to do with interest rates and how low they are. **We are currently locking in our clients with rates between 3% and 3.5% for 30-year fixed mortgages and under 3% for 15-year fixed-rate mortgages.**
 
 I’m not saying that just because rates are so low you need to make a move, but it’s important to think about how you can leverage these rates to increase the quality of your life. It doesn’t always make sense to buy or refinance, but it would be careless to not consider how you could leverage rates this low.
