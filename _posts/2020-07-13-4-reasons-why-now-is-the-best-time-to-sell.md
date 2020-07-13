@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/dkoUfsDBfPg'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Now is a great time to sell, and these are the four main reasons why.</em></p>
+
 Now is one of the best times to sell a home that I’ve ever seen. However, this doesn’t apply to everyone. My team and I specialize in helping people sell homes when unforeseen life circumstances arise. It may not be the right time for you personally to sell, for various reasons.&nbsp;
 
 Nevertheless, if you’ve been considering or need to sell, today’s housing market presents an incredible opportunity. Here are the top four reasons that right now is the best time to sell:
