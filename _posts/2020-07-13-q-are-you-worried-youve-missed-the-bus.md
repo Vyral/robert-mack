@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/nl3fsdQmKUM'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>In this intense seller’s market, buyers need to know a few things.</em></p>
+
 If you’re a buyer who’s actively looking or getting ready to start looking for a home, it can be a little frustrating right now. Last year at this time, Orange County had over 7,500 properties available for sale, and it was considered a low inventory market. Flash forward to today, and we’re hovering under 5,000 properties for sale.&nbsp;
 
 You may think this sounds like a ton of homes, but when you dissect that inventory per city, house type, number of bedrooms, and price range, we’re finding **there are really only about a dozen houses for what each buyer is looking for.** If you’re a buyer and only have 12 properties to look at, that may not be enough to find the right one for you and your family. These days we’re seeing many buyers do the “ready, aim, wait” approach. This means they’ve spoken to a lender, are pre-approved, but they’re waiting on the sidelines because they haven’t found a home they love yet.&nbsp;
