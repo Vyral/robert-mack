@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/vJfInDUSGHQ'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>If you failed to sell your home, these may be the five reasons why.</em></p>
+
 If you’ve tried to sell your home in the past but didn’t succeed, what went wrong? The reason I’ve chosen to discuss this topic today is that the housing market is extremely hot for sellers right now. Inventory and interest rates are so low that any house that looks good and is priced to sell is gone within days, often with multiple offers. That’s why today I’m discussing what may have gone wrong if you’ve already tried to sell in this great seller’s market.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:&nbsp;**
