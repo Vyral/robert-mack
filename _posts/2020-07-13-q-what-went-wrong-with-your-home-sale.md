@@ -25,15 +25,15 @@ If you’ve tried to sell your home in the past but didn’t succeed, what went 
 
 0:10: Introduction to today’s topic
 
-1:05: What could have gone wrong No. 1. Price
+1:05: Price
 
-2:05: No. 2. Condition
+2:05: Condition
 
-3:10: No. 3. Showability
+3:10: Showability
 
-4:10: No. 4. Access
+4:10: Access
 
-4:40: No. 5. Exposure
+4:40: Exposure
 
 6:10: Wrapping up today’s topic
 
