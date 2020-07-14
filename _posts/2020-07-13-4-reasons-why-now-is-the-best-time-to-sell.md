@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Reasons Why Now is the Best Time to Sell
+title: 4 Reasons Why Now Is the Best Time to Sell
 date: 2020-07-13 15:15:55
 tags:
   - Home Seller Tips
