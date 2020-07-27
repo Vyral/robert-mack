@@ -29,7 +29,7 @@ Despite this, some homes are taking longer to sell, and today I’ll tell you wh
 
 1:35—How stale inventory has crept into our market&nbsp;
 
-3:02—Why buyers would rather walk away from an overpriced property rather than submit an offer
+3:02—Why buyers would walk away from an overpriced property rather than submit an offer
 
 3:51—If your home’s on the market for more than 60 days, you’ve priced it too high
 
