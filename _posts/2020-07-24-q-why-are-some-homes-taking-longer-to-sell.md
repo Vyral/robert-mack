@@ -12,14 +12,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/robert-mack-why-are-some-homes-taking-longer-to-sell-yt.jpg
-youtube_code: 'https://youtu.be/n36Ulhqc9v4'
+youtube_code: 'https://youtu.be/gMvgO43i0XU'
 ---
 
 {% include youtube.html %}
 
 <p style="text-align: center;"><em>Here’s why some homes are taking longer to sell in our housing market.</em></p>
 
-We’ve been hearing a lot of news about the strength of our housing market lately. We’re in a seller’s market, which means there’s less inventory than there are buyers looking to buy. We have about 30,000 fewer homes on the market than we had during this time last year. To add fuel to the fire, the cost of borrowing money is low. Since interest rates are historically low, it’s created a frenzy among homebuyers. Over the last few months, we’ve seen demand skyrocket, inventory drop, and prices rise steadily.&nbsp;
+We’ve been hearing a lot of news about the strength of our housing market lately. We’re in a seller’s market, which means there’s less inventory than there are buyers looking to buy. We have about 3,000 fewer homes on the market than we had during this time last year. To add fuel to the fire, the cost of borrowing money is low. Since interest rates are historically low, it’s created a frenzy among homebuyers. Over the last few months, we’ve seen demand skyrocket, inventory drop, and prices rise steadily.&nbsp;
 
 Despite this, some homes are taking longer to sell, and today I’ll tell you why.&nbsp;
 
