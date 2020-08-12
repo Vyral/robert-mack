@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/KqawBjeajbo'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are the biggest home selling mistakes I see in our market today.</em></p>
+
 Ours is a strong seller’s market, but sometimes people get overeager and make more mistakes when the cards are stacked in their favor. Many sellers don’t realize that it can take two to three months to get their home ready to sell quickly and for top dollar.&nbsp;
 
 Even though we’re super low on inventory, about 30% to 35% of that supply is what’s considered ‘stale’ because some sellers think this market gives them the privilege to price their homes ridiculously. Yes, the market is on fire, but buyers aren’t stupid. Today I’m sharing the five big mistakes sellers need to avoid for their home sale to go off without a hitch.
