@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/Gah-8BzSzpM'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are the five mistakes buyers should avoid at all costs.</em></p>
+
 This market can be frustrating for buyers, and many feel that there’s simply no way they’ll be able to get themselves into the new home they want. However, that feeling doesn’t reflect reality—amid all the craziness, I’m helping plenty of buyers achieve their goals. Today I’m sharing the five mistakes you’ll want to avoid if you want to join their ranks. From our RAW approach (Ready, Aim, Wait), to the dangers of playing it small, to the ‘law of reciprocity,’ I’ll cover the most common choices and mindsets that hold buyers back in any market
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch the full message or use these timestamps to skip to topics that interest you most:&nbsp;**
