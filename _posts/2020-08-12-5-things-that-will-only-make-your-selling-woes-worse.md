@@ -18,6 +18,8 @@ youtube_code: 'https://youtu.be/1c4fW_9OPhI'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>If your previous attempts to sell have failed, here’s what NOT to do next.</em></p>
+
 Not every agent is created equal; if your agent couldn’t sell your home, it doesn’t mean your house is unsellable. My team and I sell previously expired or canceled listings all the time—sometimes for more than what the other agent tried (and failed) to sell it at.&nbsp;
 
 That being said, if your home stagnated on the market for months before the plug was pulled, you need to be prepared to enact some sort of dramatic change by way of price, condition, marketing, or representation. Today I’m sharing the top five mistakes I see unsuccessful sellers make to remedy their situation.
