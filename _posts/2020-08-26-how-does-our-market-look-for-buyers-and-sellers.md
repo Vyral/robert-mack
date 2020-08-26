@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/ByBI1CL4zfA'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are some tips for both homebuyers and sellers out in our market.</em></p>
+
 Buying a home now is like buying toilet paper back in April or May. I’ve seen this joke circulating the internet about how difficult it is to secure a home right now, but it’s very relatable. Our market is currently on fire for sellers. It’s the strongest seller’s market I’ve seen since joining the business. However, buyers are having a much more difficult time than usual because competition for limited homes is fierce.
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety, or use these timestamps to browse specific points at your leisure:**
