@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/NGu69HS4nnI'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>If you tried to sell in the past, your home may be worth more now.</em></p>
+
 To all you homeowners who tried to sell your home in the past and were unsuccessful for whatever reason: Your house is likely worth more now. **There are dozens of reasons why properties don’t sell,** but there’s an excellent silver lining. Maybe it was meant to be; it may have been a frustrating experience, perhaps you weren’t satisfied with your agent, maybe something happened that was out of your control.&nbsp;
 
 The fantastic news is, values have continued to rise month over month for years. We’re currently experiencing one of the most aggressive seller’s markets I’ve seen in my 15 years in real estate. Just today, I spoke to three different people whose homes didn’t sell in the past, and now I can probably get them a bit more than what they listed it for in the past. **That’s the silver lining of not selling then: You can get more now.&nbsp;**
