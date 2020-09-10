@@ -20,6 +20,8 @@ youtube_code: 'https://youtu.be/HsUInsJKn2M'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Buyers are currently paying too much for homes. Here’s how to avoid that.</em></p>
+
 These days, most buyers are paying too much for the homes they’re buying. I’m not talking just about the price of the property; I’m also talking about their experience from the day they begin looking until their offer is accepted. I’ve been doing a ton of research on this, most of it through our clients, and what I’ve found is that the standard buyer in our current market is missing out on an average of three properties before they get an offer accepted. **This then results in buyers paying too much money for homes.** More is less in a market that’s appreciating as aggressively as the one we’re in right now.&nbsp;
 
 A real-life example: I had a client that was pre-approved for $750,000. She was looking in a particular area she liked, and we found an excellent house that was listed for $740,000. At first, she was tentative and wanted to negotiate. Many buyers want to do this; they’ll offer $730,000 to see what happens.&nbsp;
