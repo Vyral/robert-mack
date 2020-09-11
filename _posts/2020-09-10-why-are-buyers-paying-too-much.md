@@ -30,10 +30,10 @@ Well, what happens is we won’t even receive a counteroffer. In this case, the 
 
 {% include pullquote.html %}
 
-Then, the next house in the area that was comparable was listed for $745,000. They understood that they could get a little more for their property based on what the previous one sold for. I told her to offer $747,000, and show the seller we mean business before she missed out on another home. However, she decided to offer $740,000, and again, we didn’t get a counteroffer.&nbsp;
+Then, the next house in the area that was comparable was listed for $745,000. They understood that they could get a little more for their property based on what the previous one sold for. I told her to offer $747,000 and show the seller we mean business before she missed out on another home. However, she decided to offer $740,000, and again, we didn’t get a counteroffer.&nbsp;
 
 The third house that was comparable was listed for $755,000, and she doesn’t qualify for it. We submitted an offer of $750,000, and it wasn’t accepted. Now she’s looking in another area because she can no longer afford the appreciating home prices in her first-choice neighborhood. Unfortunately, she’s now settling for an area that isn’t her top choice because she didn’t offer the best price in the beginning. Also, the person that paid $755,000 could have gotten the property earlier for $742,000 but overpaid because they weren’t as aggressive from the get-go.&nbsp;
 
-If you’re a buyer looking for a home, understand what you qualify for, and know that you may have to go a bit higher to get the house you want. However, **the sooner you get that property the better** because each home will get more expensive, and that trend will continue. Then you’ll either have to settle or pay more than you wanted.
+If you’re a buyer looking for a home, understand what you qualify for and know that you may have to go a bit higher to get the house you want. However, **the sooner you get that property, the better**—because each home will get more expensive, and that trend will continue. Then you’ll either have to settle or pay more than you wanted.
 
 If you want to discuss buying a property and learn how my team and I support our clients and get them the best deal possible, send me an email or give me a call. I’d love to connect with you. Also, if you have any ideas for videos you’d like to see in the future, send those my way too.
