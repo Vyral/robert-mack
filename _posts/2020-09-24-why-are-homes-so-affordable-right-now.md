@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Are Homes So Affordable Right Now?
-date:
+date: 2020-09-24 14:14:26
 tags:
   - Real Estate
 excerpt: Why are homes more affordable now than ever before? Let’s discuss this.
@@ -27,7 +27,7 @@ If you’re a buyer who is thinking about waiting until prices fall to make a pu
 
 {% include pullquote.html %}
 
-2\. When is that price fall going to happen? Do you think it will happen in six months? 12 months? 18 months? It’s hard to be sure. And for that matter...
+2\. When is that price fall going to happen? Do you think it will happen in six months? 12 months? 18 months? It’s hard to be sure. And for that matter…
 
 3\. How high will prices be?If prices from today’s market rise 15% over the next 18 months and then begin to fall, they’re going to have to fall another 15% to get to a point where buyers feel like they’re getting the deal they’ve been waiting for.
 
