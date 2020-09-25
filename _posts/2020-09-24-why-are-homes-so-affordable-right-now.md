@@ -23,8 +23,6 @@ One of my old mentors told me a long time ago that prices are a one-time thing; 
 
 If you were to buy a $1-million property today with a 3.25% interest rate and 20% down, your monthly payment would be $3,482. If those rates went up to 4.25%, your monthly payment would be $3,936—that’s a $500-difference for just a 1% increase\!
 
-&nbsp;
-
 &nbsp;If you’re thinking about waiting until prices fall to make a purchase, here are&nbsp;**a few questions to consider to decide whether it makes sense to buy now or wait:**
 
 **1\. How much will prices fall when they do?** Based on the inventory and demand in our market, I don’t see prices falling more than 10%. I think we’ll see prices stabilize in the future and maybe drop by 3% to 5% depending on the area. However, I do see interest rates rising by 1% as the world and economy get stronger.
