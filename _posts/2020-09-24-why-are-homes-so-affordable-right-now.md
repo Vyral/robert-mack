@@ -17,7 +17,7 @@ youtube_code: 'https://youtu.be/nzHjla4_epw'
 
 {% include youtube.html %}
 
-Why are homes more affordable now than ever before? Let’s discuss this.
+<p style="text-align:center">Why are homes more affordable now than ever before? Let’s discuss this.</p>
 
 One of my old mentors told me a long time ago that prices are a one-time thing; your monthly payments and your interest rates are what you have to see every month.
 
