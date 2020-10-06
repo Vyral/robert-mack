@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/aLT5PoEr8xo'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s how to determine the best time for you to buy a home.</em></p>
+
 When is the best time to buy a home?
 
 Before I answer that question, I’ll address another question I get asked frequently: How’s the market? That is a difficult question to answer because everyone is different. If you ask an agent how the market is and they tell you it’s hot, that’s not a great answer. Some people want to buy, and within that category alone, there are people who want to buy primary residences, second homes, and investment properties. Others want to sell or just rent. On top of that, different price ranges require different answers. **There are so many criteria to consider that we can’t always say definitively whether it’s a good time to buy or sell.&nbsp;**
