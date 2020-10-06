@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/gVCRFtg1Jyg'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s how sellers can avoid appraisal issues when listing their property.</em></p>
+
 How can you avoid appraisal issues as a seller?
 
 Before answering that question, let my talk for a moment about value. Many of my team’s buyer clients ask us what their options are if they submit an offer on a home but the appraisal doesn’t match that value. The thing is, value is a relative term. In other words, a home is only worth what a buyer is willing to pay for it.&nbsp;
