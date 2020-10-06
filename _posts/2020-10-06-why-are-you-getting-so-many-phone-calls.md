@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/if50x_bmhbs'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s why you’re getting so many phone calls from agents.</em></p>
+
 My team and I have been selling homes in the Orange County area for 15 years, and a big portion of our business comes from helping homeowners who tried selling in the past but were unsuccessful. We call these ‘canceled’ or ‘expired’ listings (and, sometimes, ‘withdrawn’). There are rules we have to follow when handling these types of listings.&nbsp;
 
 So if you’ve tried selling your home in the past but failed and now you’re suddenly getting a ton of phone calls from agents, you may be wondering: Where the heck were these people when my home was for sale?
