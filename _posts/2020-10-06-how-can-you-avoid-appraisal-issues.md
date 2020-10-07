@@ -37,7 +37,7 @@ So, to avoid future appraisal issues, the solution is simple. If you have an off
 
 In this situation, we’ll remove the appraisal contingency, which states that if the home appraises for less than what the buyer agrees to pay for it, they have to pay the difference in cash. The buyer will have to increase their down payment to cover that gap because the lender will only lend you a certain amount of the appraised value for your loan.&nbsp;
 
-There’s a lot more that goes into this, but we at the Robert Mack Group have spent the last seven years dissecting the home selling experience. We’ve identified the pain points such as this and do everything we can to get in front of this issue to reduce friction during the transaction. Make sure you work with an agent who understands this because **the last thing you want is the buyer renegotiating the price of the property because their appraisal came in low.&nbsp;**
+There’s a lot more that goes into this, but we at the Robert Mack Group have spent the last seven years dissecting the home-selling experience. We’ve identified the pain points such as this and do everything we can to get in front of this issue to reduce friction during the transaction. Make sure you work with an agent who understands this because **the last thing you want is the buyer renegotiating the price of the property because their appraisal came in low.&nbsp;**
 
 Keep in mind that appraisers are human beings. If you were to hire three or four of them to appraise the same home, it wouldn’t be unusual if they all came back with a different value.&nbsp;
 
