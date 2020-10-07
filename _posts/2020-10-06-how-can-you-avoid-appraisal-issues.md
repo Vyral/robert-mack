@@ -27,7 +27,9 @@ Before answering that question, let my talk for a moment about value. Many of my
 
 When a buyer gets a loan to buy a home, they must get an appraisal, but **this appraisal isn’t designed to protect the consumer—it’s designed to protect the lender.** Appraisals exist because, if a lender allows a buyer to borrow money, they need to ensure that they’ll be able to recover their funds if the buyer can’t pay back their loan and they have to foreclose on the home and sell it.&nbsp;
 
-Appraisers will do their best to justify the price a buyer offers for a home, but there’s a bit of a disconnect with the process because they justify value based on past sales. These past sales can be anywhere from one to six months old, and the market is changing rapidly. When I work with a seller, my job is to justify the highest possible price based on future values. What will a homebuyer pay for this property? What do we have to do to get them to see the value of it? A seller accepting an offer for a price the appraiser can’t justify is a common occurrence in our low-inventory, high-demand market where homes are selling for record prices. Homes are selling at never-before-seen prices, and it’s hard for a conservative lender to justify this.&nbsp;
+Appraisers will do their best to justify the price a buyer offers for a home, but there’s a bit of a disconnect with the process because they justify value based on past sales. These past sales can be anywhere from one to six months old, and the market is changing rapidly. When I work with a seller, my job is to justify the highest possible price based on future values. What will a homebuyer pay for this property? What do we have to do to get them to see the value of it?&nbsp;
+
+A seller accepting an offer for a price the appraiser can’t justify is a common occurrence in our low-inventory, high-demand market where homes are selling for record prices. Homes are selling at never-before-seen prices, and it’s hard for a conservative lender to justify this.&nbsp;
 
 {% include pullquote.html %}
 
