@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/gVCRFtg1Jyg'
 
 How can you avoid appraisal issues as a seller?
 
-Before answering that question, let my talk for a moment about value. Many of my team’s buyer clients ask us what their options are if they submit an offer on a home but the appraisal doesn’t match that value. The thing is, value is a relative term. In other words, a home is only worth what a buyer is willing to pay for it.&nbsp;
+Before answering that question, let's talk for a moment about value. Many of my team’s buyer clients ask us what their options are if they submit an offer on a home but the appraisal doesn’t match that value. The thing is, value is a relative term. In other words, a home is only worth what a buyer is willing to pay for it.&nbsp;
 
 When a buyer gets a loan to buy a home, they must get an appraisal, but **this appraisal isn’t designed to protect the consumer—it’s designed to protect the lender.** Appraisals exist because, if a lender allows a buyer to borrow money, they need to ensure that they’ll be able to recover their funds if the buyer can’t pay back their loan and they have to foreclose on the home and sell it.&nbsp;
 
