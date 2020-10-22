@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Inventory is tight, but there are three tips to remember to win the home you
   want.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/How+Can+You+Win+the+Home+You+Want+in+This+Market_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,9 @@ youtube_alternate_image: /uploads/robert-mack-inventory-multiple-offers-and-how-
 youtube_code: 'https://youtu.be/S1lu7t0sgLs'
 ---
 
-{% include youtube.html %}
+{% include youtube.html %}.
+
+<p style="text-align: center;"><em>Inventory is tight, but there are three tips to remember to win the home you want.</em></p>
 
 We’re nearing the end of October, and our Orange County real estate market is absolutely bananas. Today I’ll discuss why our market is so aggressive and what you can do about it as a buyer. Essentially, inventory is low and so are interest rates. COVID started this trend all the way back in March, but there are three tips to remember if you want to win the home you want.&nbsp;
 
