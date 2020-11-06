@@ -16,7 +16,7 @@ youtube_code: 8bD8K9Zh1mM
 
 {% include youtube.html %}
 
-Here’s what kind of seller you need to be to sell for top dollar.
+<p style="text-align:center">Here’s what kind of seller you need to be to sell for top dollar.</p>
 
 What kind of seller are you? I’ve been selling real estate for 15 years, and in that time, I’ve dissected many types of clients.&nbsp;
 
