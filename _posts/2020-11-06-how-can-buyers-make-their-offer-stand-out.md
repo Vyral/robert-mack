@@ -9,7 +9,7 @@ enclosure:
 pullquote: 'Only the most prepared, aggressive buyers are winning.'
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/robert-mack-5-ways-to-make-your-offer-stand-out-yt.jpg
 youtube_code: 1ssh08J-TiU
 ---
