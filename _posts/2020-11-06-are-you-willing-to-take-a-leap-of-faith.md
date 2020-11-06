@@ -16,7 +16,7 @@ youtube_code: EBqntAKHhSs
 
 {% include youtube.html %}
 
-<p style="text-align:center">To sell in this market, you need to be willing to take a leap of faith.</p>
+<p style="text-align:center"><em>To sell in this market, you need to be willing to take a leap of faith.</em></p>
 
 Are you willing to take a leap of faith? If you’ve tried selling your home in the past but for one reason or another were unsuccessful, this message is for you. The good news is that you can still accomplish your real estate goals, and I’ll tell you how. It starts with taking a leap of faith and a willingness to explore alternative options.
 
