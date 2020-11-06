@@ -16,7 +16,7 @@ youtube_code: 1ssh08J-TiU
 
 {% include youtube.html %}
 
-<p style="text-align:center">Here are five ways to make your offer stand out.</p>
+<p style="text-align:center"><em>Here are five ways to make your offer stand out.</em></p>
 
 If you’re a buyer and ready to start shopping for homes, you should know that it’s brutal out there. There isn’t a lot of inventory, which has made it hard for a lot of buyers to find the right home. Historically low interest rates are only adding fuel to the fire—buyers want to get their offer accepted now even though they know they’re paying a premium because they know that these rates equate to long-term savings.&nbsp;
 
