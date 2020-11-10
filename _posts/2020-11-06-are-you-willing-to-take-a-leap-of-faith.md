@@ -5,7 +5,8 @@ date: 2020-11-06 22:31:25
 tags:
   - Home Seller Tips
 excerpt: 'To sell in this market, you need to be willing to take a leap of faith.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Are+You+Willing+to+Take+a+Leap+of+Faith_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
