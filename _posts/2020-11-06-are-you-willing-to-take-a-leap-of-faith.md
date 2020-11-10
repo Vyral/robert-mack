@@ -27,7 +27,7 @@ Are you willing to take a leap of faith? If you’ve tried selling your home in 
 
 1:20—The primary reason potential sellers aren’t selling&nbsp;
 
-2:17—Why you must take a leap of faith as a seller in this housing market and what options will buy you&nbsp; time to find your next property
+2:17—Why you must take a leap of faith as a seller in this housing market and what options will buy you time to find your next property
 
 2:43—Tip No. 1: Ask the buyer for a rent-back
 
