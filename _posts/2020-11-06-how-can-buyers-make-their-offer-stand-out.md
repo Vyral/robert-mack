@@ -5,7 +5,8 @@ date: 2020-11-06 22:47:57
 tags:
   - Home Buyer Tips
 excerpt: Here are five ways to make your offer stand out.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/How+Can+Buyers+Make+Their+Offer+Stand+Out_.mp4
 pullquote: 'Only the most prepared, aggressive buyers are winning.'
 enclosure_type: video/mp4
 enclosure_time:
