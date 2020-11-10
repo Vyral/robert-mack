@@ -37,6 +37,6 @@ As I’ve said many times before: Real estate is not a one-size-fits-all approac
 
 **Sellers who keep an open mind and consider making small repairs, though, are the ones who win.** This could mean repainting the interior, steam cleaning the carpets, getting the home professionally staged, etc. Statistically, staged homes sell for 5% to 6% more and 75% quicker than unstaged homes.&nbsp;
 
-So, figure out where you stand as a seller. Do you want to make a ton of upgrades, no upgrades at all, or work with a real estate expert who knows exactly what buyers are looking for so you can maximize your ROI? That’s exactly what my team and I specialize in: Helping people invest a minimal amount of money to gain a maximum amount of net proceeds.&nbsp;
+So, figure out where you stand as a seller. Do you want to make a ton of upgrades, no upgrades at all, or work with a real estate expert who knows exactly what buyers are looking for so you can maximize your ROI? That’s what my team and I specialize in: Helping people invest a minimal amount of money to gain a maximum amount of net proceeds.&nbsp;
 
 If you’d like to know more about how to sell your home for top dollar or have any other real estate questions, don’t hesitate to reach out to me. I’d love to speak with you.
