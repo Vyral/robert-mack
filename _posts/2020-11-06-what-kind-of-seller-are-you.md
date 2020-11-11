@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/robert-mack-what-kind-of-sellers-are-you-yt.jpg
-youtube_code: 8bD8K9Zh1mM
+youtube_code: OAnClx1BD0I
 ---
 
 {% include youtube.html %}
