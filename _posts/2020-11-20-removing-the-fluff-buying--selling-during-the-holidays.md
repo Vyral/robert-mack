@@ -20,6 +20,8 @@ youtube_code: 'https://youtu.be/H9f1xuX1YcU'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>The fluff will be removed from the market; what does that mean for you?</em></p>
+
 A lot of people are saying that because the holidays are right around the corner, they’re not sure if now is the right time to buy or sell or if they’d be better off waiting. Before I get to my response, remember that real estate doesn’t have a one-size-fits-all approach, so my advice today may or may not apply to your specific situation, though you can always reach out to me if you’d like to discuss it in more detail.
 
 Interest rates are currently low, and though we do anticipate an increase in 2021, they’re holding steady for now. Beyond that, **there are two key issues at play when it comes to buying and selling during the holidays: inventory and demand.&nbsp;**
