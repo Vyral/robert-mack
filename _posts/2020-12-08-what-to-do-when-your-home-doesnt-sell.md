@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/D7YtjK5v90M'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>If your home doesn’t sell, what’s the next step to take?</em></p>
+
 Homes exit the market all the time for various reasons—the sellers might have been unmotivated, or they might have partnered with inept agents. Statistics show that homeowners often hire the first agent they talk to, but that person may not always be the best for the job. **There are over 20,000 agents in Orange County, and last year, only 400 of those agents sold 10 homes or more.** Not everybody has the experience that a seller needs to get the best price, and some sellers are finding that out the hard way.
 
 Once your home falls off the market, you may find that you’re being contacted by many agents who are looking for ways to generate new business. Expired listings are an easy way to have a conversation with a motivated seller that may lead to a potential listing.
