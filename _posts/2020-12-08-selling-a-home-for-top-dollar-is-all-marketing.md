@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/5TQW_OSaEo4'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>The key to selling your home for the most money lies in your marketing plan.</em></p>
+
 Whether you plan to put your home on the market in the next month or in the next couple of years, there are three things that you need to focus on as a seller when you’re working with an agent to list your home for sale. Fortunately for you, it all comes down to marketing. **I’ve broken our marketing strategy into three parts:**
 
 **1\. Price.** Think about a time when a product you were waiting to buy suddenly dropped in price. What did that make you want to do? Chances are that it made you want to go out there and get it right away. When it comes to listing your home, my team uses several different pricing strategies depending on the client, the market, and what our goals are. That said, how you price a property directly affects the number of buyers who will see your home.
