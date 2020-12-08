@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/BzyBORJ1f6E'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Buyers don’t want to pay more than market value—but what is market value?</em></p>
+
 Many buyers in the market have been saying that they don’t want to pay above market value for a home. But here’s the thing: **Market value is not a number.** Market value is a price that a buyer is willing to pay based on demand. So understand that there’s no specific price set when it comes to market value.
 
 Now, you will want to look back at the neighborhood’s history to see what prices homes have sold for, what condition they were in, what time of year it was, and what demand was like at the time. Those are all factors that are considered when a home’s market value is decided.
