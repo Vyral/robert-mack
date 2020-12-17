@@ -17,6 +17,8 @@ youtube_code: 2vrYN4V1c2c
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>This current holiday housing market is unlike any other. Here’s why.</em></p>
+
 This Orange County housing market is relentless, and it’s time for an update on how the holidays are affecting everything. Generally, everything slows down during the holiday season, and only the most motivated buyers and sellers stay in the market. Now, however, we’re seeing a very different market. Inventory is low and demand is falling but not for the reasons you might think. If you’re a buyer or seller, you might be pleasantly surprised by the opportunities out there.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety, or use these timestamps to browse specific points at your leisure:&nbsp;**
