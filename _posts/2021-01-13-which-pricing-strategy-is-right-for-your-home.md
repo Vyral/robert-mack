@@ -19,6 +19,8 @@ youtube_code: jVzJ_-Xbp5I
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s a closer look at how you should approach pricing your home for sale.</em></p>
+
 As I’ve touched on in previous videos, three specific factors translate into selling a property for the highest price and best terms:&nbsp;
 
 1\. Price the home right. &nbsp;<br>2\. Make the home look as good as possible with the resources available to you.&nbsp;<br>3\. Leverage online and offline marketing to get the word out about it.&nbsp;
