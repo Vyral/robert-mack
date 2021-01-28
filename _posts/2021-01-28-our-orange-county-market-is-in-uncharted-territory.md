@@ -17,6 +17,8 @@ youtube_code: y_0OG5Jm2sU
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s why our Orange County market is in uncharted territory.</em></p>
+
 What’s going on with our 2021 Orange County real estate market? Ever since March of last year, when we saw such a rise in demand and activity, the market has been going bananas. Today I’ll take a deep dive into the numbers behind our supply and demand and explain what they mean for buyers and sellers. The bottom line is that we’re in uncharted territory.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:&nbsp;**
