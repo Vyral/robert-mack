@@ -16,6 +16,8 @@ youtube_code: abzAfsY-PEs
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Buyers in this current market, will have to overpay to get what they want.</em></p>
+
 The Orange County housing market is bananas these days. Nothing is completely making sense right now. A lot of buyers we’re working with are telling us that they know rates are low, demand is high, and prices are high, but they want a good deal regardless. The sellers we’re working with are saying something similar. They know the market is strong, so if homes are selling for a certain price in their area, they want to sell for higher.&nbsp;
 
 Everyone has unrealistic expectations for how the market is working. At the end of the day, if you want to buy a home in our current market, you’ll have to wrap your head around the fact that whatever homes sold for in the past doesn’t determine what they’ll sell for in the future. As a buyer, you’ll have to overpay to get what you want, but that’s not necessarily a bad thing.&nbsp;
