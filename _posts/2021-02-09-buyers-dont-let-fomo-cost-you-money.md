@@ -18,6 +18,8 @@ youtube_code: FBgEC7VVOFM
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Don’t let FOMO guide your decision-making process as a homebuyer.</em></p>
+
 Is FOMO costing you money? **FOMO stands for the “fear of missing out,”** If you haven’t heard of this term, Google it; it’s a real thing.&nbsp;
 
 The bottom line is that my team and I work with a lot of buyers, and these buyers come in all shapes and sizes. 50% of them are focused on what they want. They know the area they’re looking in, understand why they’re buying, and have fallen in love with the numbers. What I mean by that last part is they’ve spoken with a lender, understand the loan they’re getting and how much they’ll bring to the table for a down payment, know what their monthly payment and closing costs will be, etc. They’re 100% ready to go; all they’re waiting for is the right property to pop up.&nbsp;
