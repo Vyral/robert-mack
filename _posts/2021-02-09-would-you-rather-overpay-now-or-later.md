@@ -4,7 +4,7 @@ title: Would You Rather Overpay Now or Later?
 date: 2021-02-09 18:53:53
 tags:
   - Home Buyer Tips
-excerpt: 'Buyers in this current market, will have to overpay to get what they want.'
+excerpt: 'Buyers in this current market will have to overpay to get what they want.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -16,7 +16,7 @@ youtube_code: abzAfsY-PEs
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Buyers in this current market, will have to overpay to get what they want.</em></p>
+<p style="text-align: center;"><em>Buyers in this current market will have to overpay to get what they want.</em></p>
 
 The Orange County housing market is bananas these days. Nothing is completely making sense right now. A lot of buyers we’re working with are telling us that they know rates are low, demand is high, and prices are high, but they want a good deal regardless. The sellers we’re working with are saying something similar. They know the market is strong, so if homes are selling for a certain price in their area, they want to sell for higher.&nbsp;
 
