@@ -5,7 +5,7 @@ date: 2021-02-09 18:49:53
 tags:
   - Home Buyer Tips
 excerpt: Don’t let FOMO guide your decision-making process as a homebuyer.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Buyers_+Don%E2%80%99t+Let+FOMO+Cost+You+Money.mp4
 pullquote: >-
   Understand why you’re buying, where you want to live, and then zero-in on that
   area.
