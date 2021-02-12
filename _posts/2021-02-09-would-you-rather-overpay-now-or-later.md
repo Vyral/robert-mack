@@ -5,7 +5,7 @@ date: 2021-02-09 18:53:53
 tags:
   - Home Buyer Tips
 excerpt: 'Buyers in this current market will have to overpay to get what they want.'
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Would+You+Rather+Overpay+Now+or+Later_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
