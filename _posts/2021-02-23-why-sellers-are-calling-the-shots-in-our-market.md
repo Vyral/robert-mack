@@ -16,6 +16,8 @@ youtube_code: t59W_4BRv90
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s why sellers are calling the shots in our market.</em></p>
+
 What’s going on with our Orange County real estate market? In short, sellers are calling all the shots, and today I’ll tell you why. I’ll also explain how sellers and buyers can navigate this market. Historically low inventory and interest rates have created a massive amount of demand, and I’ve never seen a market this aggressive.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:&nbsp;**
