@@ -5,7 +5,7 @@ date: 2021-02-23 19:52:53
 tags:
   - Market Update
 excerpt: Here’s why sellers are calling the shots in our market.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Why+Sellers+Are+Calling+the+Shots+in+Our+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
