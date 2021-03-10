@@ -17,7 +17,7 @@ youtube_code: WlTVMxQCcYE
 ---
 {% include youtube.html %}
 
-*These strategies will help sellers transition between homes.*
+<p style="text-align: center;"><em>These strategies will help sellers transition between homes.</em></p>
 
 How are our sellers transitioning in this housing market?
 
