@@ -17,7 +17,7 @@ youtube_code: n9OeTe9hb7o
 ---
 {% include youtube.html %}
 
-*Here are six reasons you should get pre-approved right now.*
+<p style="text-align: center;"><em>Here are six reasons you should get pre-approved right now.</em></p>
 
 Whether you just decided you want to buy a home or have been thinking about it for a while, or whether you want to buy now or see yourself buying in three to five years, you need to get pre-approved today. There are six reasons why:
 
@@ -25,13 +25,15 @@ Whether you just decided you want to buy a home or have been thinking about it f
 
 **2\. It buys you time.** Most of the buyers my team and I meet with don’t say, “I’m ready to go right now.” Instead, they tell us they’re thinking about buying, they want to learn more about what that looks like, and are curious what their next step should be. They may be looking to sell six or even 12 months down the road, but getting pre-approved now and understanding their financial situation gives them time to structure their loan, make any adjustments in their personal life, and clear up any blemishes in their credit report. Having time on your side is crucial\!
 
-**3\. It gives you insight into the three key indicators** (as alluded to in point No. 1). The first of these is your monthly payment: If you buy a home for x amount of dollars, how much will your monthly payment be? The second is how much you qualify for (i.e., your total purchase price). One of my mentors once told me that purchase price is a one-time thing; your monthly payment is what you need to be focused on. That’s why the market is moving so quickly right now—interest rates are historically low. The third indicator is how much money you need to bring to the table. Are there grants you can take advantage of? How much are your closing costs? These indicators are things you’ll want to know before embarking on the home-buying process. As Dave Ramsey says, “Fall in love with the numbers before you fall in love with the house.”
+**3\. It gives you insight into the three key indicators** (as alluded to in point No. 1). The first of these is your monthly payment: If you buy a home for x amount of dollars, how much will your monthly payment be? The second is how much you qualify for (i.e., your total purchase price). One of my mentors once told me that purchase price is a one-time thing; your monthly payment is what you need to be focused on. That’s why the market is moving so quickly right now—interest rates are historically low. 
+
+The third indicator is how much money you need to bring to the table. Are there grants you can take advantage of? How much are your closing costs? These indicators are things you’ll want to know before embarking on the home-buying process. As Dave Ramsey says, “Fall in love with the numbers before you fall in love with the house.”
 
 {% include pullquote.html %}
 
 **4\. The “just in case.”** A lot of our clients get pre-approved knowing they want to buy in six to 12 months, but all of a sudden a beautiful home gets listed in their price range and convinces them that they can’t pass it up. The fact that they got pre-approved right when they thought about buying puts them in a position to buy that unicorn property that popped up out of the blue. You need to be ready to strike at a moment’s notice in a market like this.
 
-**5\. It may be required of you.** Due to COVID, many homeowners are requiring buyers to send their pre-approvals up front. They don’t want just anybody walking through their home. They only want buyers who they know can afford their property to be allowed access to it. This doesn’t mean every home, but I estimate that 30% to 40% of all sellers are making this stipulation. Just having it allows you to go out and look at more homes. Even if you’re not ready to buy, you still have your admission ticket if a home pops up that you like and want to see.
+**5\. It may be required of you.** Due to COVID, many homeowners are requiring buyers to send their pre-approvals up front. They don’t want just anybody walking through their home. They only want to allow access to those buyers who can afford their property. This doesn’t mean every home, but I estimate that 30% to 40% of all sellers are making this stipulation. Just having it allows you to go out and look at more homes. Even if you’re not ready to buy, you still have your admission ticket if a home pops up that you like and want to see.
 
 **6\. It’s completely free.** There are no commitments or obligations. It’s simply an educational experience that will leave you feeling much more empowered to make the right decision.
 
