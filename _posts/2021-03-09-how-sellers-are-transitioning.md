@@ -5,7 +5,7 @@ date: 2021-03-09 00:00:00
 tags:
   - Home Seller Tips
 excerpt: These strategies will help sellers transition between homes.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Robert+Mack/How+Sellers+Are+Transitioning.mp4
 pullquote: >-
   Regardless of which of these strategies you use, there will always be pros and
   cons.
