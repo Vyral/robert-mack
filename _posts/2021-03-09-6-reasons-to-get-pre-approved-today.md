@@ -5,7 +5,7 @@ date: 2021-03-09 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here are six reasons you should get pre-approved right now.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Robert+Mack/6+Reasons+to+Get+Pre-Approved+Today.mp4
 pullquote: >-
   Understanding all of your options and getting educated about your loan will
   set you up for success.
