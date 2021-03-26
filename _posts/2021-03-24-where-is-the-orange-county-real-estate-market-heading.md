@@ -5,7 +5,8 @@ date: 2021-03-24 20:28:00
 tags:
   - Market Update
 excerpt: Here is a closer look at the factors driving our crazy real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Where+Is+the+Orange+County+Real+Estate+Market+Heading_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
