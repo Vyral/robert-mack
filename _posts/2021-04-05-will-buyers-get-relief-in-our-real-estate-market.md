@@ -5,7 +5,8 @@ date: 2021-04-05 15:30:00
 tags:
   - Home Buyer Tips
 excerpt: The super-hot seller’s market may be shifting  toward buyers right now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Will+Buyers+Get+Relief+in+Our+Real+Estate+Market_.mp4
 pullquote: >-
   There’s a light at the end of the tunnel, buyers, but it comes at the cost of
   affordability.
