@@ -3,8 +3,10 @@ layout: post
 title: Why Home Pricing Is More Crucial Than Ever
 date: 2021-04-05 15:33:00
 tags:
+  - Home Seller Tips
 excerpt: Here’s a look at what the future might hold for our housing market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Why+Home+Pricing+Is+More+Crucial+Than+Ever.mp4
 pullquote: Don’t let the last few months determine how you price your home going forward.
 enclosure_type: video/mp4
 enclosure_time:
