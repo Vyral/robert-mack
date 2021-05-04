@@ -20,7 +20,7 @@ youtube_code: tkfKp908s_M
 
 It’s no secret that the market is on fire for sellers right now, but it’s meant that buyers are getting a little frustrated. Every new listing is bombarded with offers, meaning most buyers are walking away empty-handed. And after going through this same cycle over and over, it can easily become discouraging.
 
-**Don’t lose hope just yet, though.** There are still a few ways that buyers can win—even in a blazing-hot seller’s market like ours. Most buyers are focusing their attention on the new homes that come onto the market, so you’ll need to know how to make your offer stand out among the rest. Here’s how:
+**Don’t lose hope just yet, though.** There are still a few ways that buyers can win—even in a blazing-hot seller’s market like ours. Most buyers are focusing their attention on the new homes that come onto the market, so you’ll need to know how to make your offer stand out among the rest. Here’s how:&nbsp;
 
 **1\. Submit a great first offer.** If you submit something low and leave room to negotiate, you may not get the opportunity to increase your price. Sellers aren’t countering every offer—they’re usually only focusing on the top two or three buyers. Other times, they just pick the best one immediately. So, to get your foot in the door, you need to submit your best offer up front.
 
