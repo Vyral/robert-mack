@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Preparing Your Home Before Listing Is More Important Than Ever
-date: 2021-05-06 15:30:00
+date: 2021-05-05 15:30:00
 tags:
   - Home Seller Tips
   - Market Update
