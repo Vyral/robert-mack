@@ -24,9 +24,9 @@ youtube_code: G2YIZBD3T9A
 
 When it comes to putting a home on the housing market, I’ve always been a huge fan of preparation. In the case of preparing to sell a home, preparation might involve making repairs, replacing carpets, painting the walls, and even professional staging.
 
-The reason why the prep work is so important is because buyers make their purchase based on emotion. When you prepare your home and make it look bright, inviting, and full of possibilities, buyers will be able to see themselves living there. They’ll see how they can grow, how they can make memories, and what kind of life they’ll be able to have.
+The reason why the prep work is so important is that buyers make their purchases based on emotion. When you prepare your home and make it look bright, inviting, and full of possibilities, buyers will be able to see themselves living there. They’ll see how they can grow, how they can make memories, and what kind of life they’ll be able to have.
 
-**We actually spend more time on preparing homes than we do on marketing them—that’s how much of a difference it makes.** However, it’s not something that everyone loves to do. Most sellers want to net the most they can on their sale, so they think, “Why should I spend $5,000 on preparing my home if I’m just going to sell it?” Well, to get top dollar, the buyer needs to see a top-quality home. For the seller, that means investing some time and money into the home in order to amplify a buyer’s emotions.
+**We actually spend more time on preparing homes than we do marketing them—that’s how much of a difference it makes.** However, it’s not something that everyone loves to do. Most sellers want to net the most they can on their sale, so they think, “Why should I spend $5,000 on preparing my home if I’m just going to sell it?” Well, to get top dollar, the buyer needs to see a top-quality home. For the seller, that means investing some time and money into the home in order to amplify a buyer’s emotions.
 
 {% include pullquote.html %}
 
