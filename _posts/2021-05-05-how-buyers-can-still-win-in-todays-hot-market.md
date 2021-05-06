@@ -12,7 +12,7 @@ enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: >-
   /uploads/robert-mack-may-2021-newsletter-what-do-buyers-have-to-do-to-win-yt.jpg
-youtube_code: tkfKp908s_M
+youtube_code: um5n4q7dvCc
 ---
 {% include youtube.html %}
 
