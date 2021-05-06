@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Buyers Can Still Win in Today’s Hot Market
-date: 2021-05-06 15:30:00
+date: 2021-05-06 11:00:00
 tags:
   - Home Buyer Tips
 excerpt: 'If you’ve been struggling to find a home, these tips can help immensely.'
