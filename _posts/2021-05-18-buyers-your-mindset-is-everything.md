@@ -5,7 +5,8 @@ date: 2021-05-18 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: This is why your mindset is everything in the current housing market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Buyers_+Your+Mindset+Is+Everything.mp4
 pullquote: >-
   Buyers need to go outside their comfort zone if they want to win the property
   they love.
