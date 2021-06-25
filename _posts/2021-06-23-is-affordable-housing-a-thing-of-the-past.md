@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Home Buyer Tips
 excerpt: The housing market data we have shows us that houses are still affordable.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Is+Affordable+Housing+a+Thing+of+the+Past_.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
