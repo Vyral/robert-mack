@@ -24,7 +24,7 @@ We’re in a blazing-hot market right now, and it’s incredibly easy for seller
 
 **We’re seeing a lot more canceled escrows than usual, and it’s due to things like buyer’s remorse, problems with qualifying, and more.** A lot of this is happening because things are going so fast, and here’s an example of how it occurs: Let’s say a home is listed on Thursday. The seller and their agents will have showings over the weekend and ask for all offers to be submitted by Monday at noon. This sometimes works but sometimes doesn’t.
 
-More important than the buyer’s offer, price, and terms is the buyer’s motivation. You want to be sure that they’re willing to close the transaction, regardless of what happens in escrow. You want to be sure they’re financially qualified to buy. You want to be sure their lender is responsive and can make things happen when problems arise. The buyer’s agent is also important to consider—if they’re inexperienced, a lot of issues can pop up in escrow.&nbsp;
+More important than the buyer’s offer, price, and terms is the buyer’s motivation. You want to be sure that they’re willing to close the transaction, regardless of what happens in escrow. You want to be sure they’re financially qualified to buy and that their lender is responsive and can make things happen when problems arise. The buyer’s agent is also important to consider—if they’re inexperienced, a lot of issues can pop up in escrow.&nbsp;
 
 {% include pullquote.html %}
 
