@@ -19,7 +19,7 @@ youtube_code: t4Fsj0loyvY
 
 {% include excerpt.html %}
 
-When it comes to selling a home, it’s not over until it’s over. By that I mean that your home hasn’t sold until escrow closes, and lots of things have to happen during the escrow period for the transaction to be completed successfully. To help ensure you make it to closing, you need to find a good buyer.
+When it comes to selling a home, it’s not over until it’s over. By that, I mean that your home hasn’t sold until escrow closes, and lots of things have to happen during the escrow period for the transaction to be completed successfully. To help ensure you make it to closing, you need to find a good buyer.
 
 Around 20% to 30% of escrows are falling apart, and it’s happening for a variety of reasons: buyer’s remorse, inability to qualify, and appraisal problems, to name a few. **However, there are four things your agent can to do help you find the right buyer and minimize the chances of your escrow collapsing:**
 
