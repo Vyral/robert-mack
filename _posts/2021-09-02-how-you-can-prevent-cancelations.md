@@ -26,9 +26,9 @@ For example, **we listed a property last week that has 27 offers after five days
 
 {% include pullquote.html %}
 
-Let me explain. **Buyers are understandably frustrated right now.** I recently spoke to an agent whose client missed out on 11 properties before we accepted their offer. Buyers are coming in hot, and emotional. Sometimes, they make an offer they aren’t totally comfortable with just because they’re so sick of missing out. Once their offer is accepted, they begin to have buyer’s remorse. Next thing you know, you have a cancelation on your hands.&nbsp;
+Let me explain. **Buyers are understandably frustrated right now.** I recently spoke to an agent whose client missed out on 11 properties before we accepted their offer. Buyers are coming in hot and emotional. Sometimes, they make an offer they aren’t totally comfortable with just because they’re so sick of losing. Once their offer is accepted, they begin to have buyer’s remorse. Next thing you know, you have a cancelation on your hands.&nbsp;
 
-As agents, we try to vet your buyers the best we can. However, **I’ve been hearing from agents across my team that cancelations are on the rise.** If you watched my last video, you know our process for finding the best buyer. The important thing to remember is that price is not always the most important thing to look for in an offer.&nbsp;
+As agents, we try to vet your buyers the best we can. However, **I’ve been hearing across my team that cancelations are on the rise.** If you watched my last video, you know our process for finding the best buyer. The important thing to remember is that price is not always the most important thing to look for in an offer.&nbsp;
 
 For sellers, I have a few questions you should keep in mind when accepting an offer:&nbsp;
 
@@ -39,4 +39,4 @@ For sellers, I have a few questions you should keep in mind when accepting an of
 
 When so many offers are coming in, it’s tempting to focus on the top two highest prices to narrow things down. However, **I recommend taking the time to vet some buyers with lower initial offers.** If you find a highly motivated buyer, they may be willing to raise their price, and they are far less likely to cancel.&nbsp;
 
-If you have any questions about today’s topic, or if you have any future video ideas, please reach out to me via phone or email. I look forward to hearing from you.&nbsp;
+If you have questions about today’s topic, or if you have any future video ideas, please reach out to me via phone or email. I look forward to hearing from you.&nbsp;
