@@ -21,7 +21,7 @@ youtube_code: iR6rh44VSDY
 
 At the end of the day, no one in the real estate industry has a crystal ball. However, to all the buyers out there who are sitting on the sidelines waiting for a better time to buy, I can say this: Builders are out in the market building homes, and developers and hedge funds are out there buying properties, sometimes more than one at a time. These hedge funds have very smart people running all the numbers on the backend, and if they thought that the market was going to crash or take a turn anytime soon, they wouldn’t be investing as much money as they currently are.
 
-**I believe that we will see prices continue to rise for the next three to five years.** Nothing on the backend suggests that we’re about to experience a bubble pop or a housing crash. What we do see, however, is slow appreciation over time.&nbsp;
+**I believe that we will see prices continue to rise for the next three to five years.** Nothing suggests that we’re about to experience a bubble pop or a housing crash. What we do see, however, is slow appreciation over time.&nbsp;
 
 2020 and 2021 have been bananas, but we expect 2022, 2023, and 2024 to chill out a little more. Instead of seeing 15% to 25% appreciation year over year, we’ll instead see 4% to 6% over the next three to five years. It’ll be a much more normalized seller’s market. So for all you buyers out there who are waiting for the market crash, **you might be waiting for something that’s not going to happen anytime soon.**
 
@@ -33,9 +33,9 @@ Now, each time that the interest rate goes up by just 1%, home affordability fal
 
 **Here are a couple of other things to consider if you were planning to wait to buy:**
 
-1. Will prices even fall by 10%? I don’t think so. As I’ve said, property prices will likely continue to rise for the next three to five years.
+**1\. Will prices even fall by 10%?** I don’t think so. As I’ve said, property prices will likely continue to rise for the next three to five years.
 
-1. Interest rates will likely rise. If you’re planning to wait for a couple of years before buying, home prices could rise by 10% to 12%, but on top of that, interest rates could also rise, which would mean an exponential increase in your monthly payment.
+**2\. Interest rates will likely rise.** If you’re planning to wait for a couple of years before buying, home prices could rise by 10% to 12%, but on top of that, interest rates could also rise, which would mean an exponential increase in your monthly payment.
 
 So ask yourself: Why are you planning to buy in the first place? If you’re buying to improve your quality of life, create space for your growing family, or increase your net worth, then you need to speak to a lender about what your monthly payment would be if you bought a home in a given price range. Start exploring your options instead of watching the news or listening to your friends, and stop worrying about all the chaos and confusion out there.
 
