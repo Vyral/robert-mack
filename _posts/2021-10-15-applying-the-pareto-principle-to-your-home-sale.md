@@ -28,12 +28,12 @@ So what can you do to ensure you’re hiring an expert to help you sell your hom
 
 For the prospective sellers who are looking for an agent to help them make the best decisions, here are four questions that you’ll want to ask any agent you interview for the job:
 
-**1\. “How many homes have you sold in the last 12 months?”** Their answer will tell you how many transactions they do. The more transaction they do, the more they learn, and the better their clients’ experiences become.
+**1\. “How many homes have you sold in the last 12 months?”** Their answer will tell you how many transactions they do. The more homes they sell, the more they learn, and the better their clients’ experiences become.
 
 **2\. “What’s your list-to-sales price ratio?”** Agents will list a property at a certain price and sell it either above or below that point. Asking this question will help you understand what the agent might sell your property for—is it likely to sell for more or less than your list price? My team will have sold about 65 homes this year, and our average list-to-sale price ratio is around 104%, meaning that on average, we sell homes for 4% more than what we listed it for originally.
 
-**3\. “How fast do you sell homes?”** Are you working with an agent who sells homes in an average of a month, two months, three months? Or are you working with an agent who sells homes within just days of listing? This is all great information to obtain because understanding how long the process will take will give you the ability to plan ahead.
+**3\. “How fast do you sell homes?”** Are you working with an agent who sells homes in an average of a month, two months, three months? Or are you working with an agent who sells homes within just days of listing? This is all great information to obtain because understanding how long the process will take will let you plan ahead.
 
-**4\. “How will you get me what I want?”** When I speak with a seller, I ask them a series of questions to learn more about what they need from their sale, and then I build a customized strategy to get them exactly what they want. Many times, that includes online and offline marketing, home preparation, pricing strategies, or even collaborating with agents in other areas.
+**4\. “How will you get me what I want?”** When I speak with a seller, I ask them a series of questions to learn more about what they need from their sale, and then I build a customized strategy to get them exactly what they want. Often, that includes online and offline marketing, home preparation, pricing strategies, or even collaborating with agents in other areas.
 
 These are all important questions to ask any agent because the barrier for entry into the real estate industry is very low, and you don’t want to trust the sale of your most expensive asset to a novice. If you have any questions or are thinking about selling your home, reach out to me. I’d love to be a resource and help you make the best decisions moving forward.
