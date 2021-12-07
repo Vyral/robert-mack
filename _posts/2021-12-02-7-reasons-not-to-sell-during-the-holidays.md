@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/robert-mack-ss-youtube-1.jpg
+youtube_alternate_image: /uploads/robert-mack-ss-youtube.jpg
 youtube_code: vt0kaLvo6S8
 ---
 {% include youtube.html %}
