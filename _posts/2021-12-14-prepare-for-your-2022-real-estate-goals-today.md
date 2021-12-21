@@ -4,7 +4,8 @@ title: Prepare for Your 2022 Real Estate Goals Today
 date: 2021-12-14 00:00:00
 tags:
 excerpt: Here’s why it’s never too early to start preparing in real estate.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Prepare+for+Your+2022+Real+Estate+Goals+Today.mp4
 pullquote: ' It’s never too early to put together a strategy.'
 enclosure_type: video/mp4
 enclosure_time:
