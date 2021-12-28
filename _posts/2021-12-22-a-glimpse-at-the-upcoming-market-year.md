@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/robert-mack-ss-youtube-25.jpg
-youtube_code: 382KQSdPRTw
+youtube_code: oC7SfO2hsH0
 ---
 {% include youtube.html %}
 
