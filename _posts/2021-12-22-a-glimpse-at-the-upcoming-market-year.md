@@ -4,7 +4,8 @@ title: A Glimpse at the Upcoming Market Year
 date: 2021-12-22 00:00:00
 tags:
 excerpt: What’s going to happen in the 2022 housing market? Find out here.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/A+Glimpse+at+the+Upcoming+Market+Year+(1).mp4
 pullquote: We expect to see mortgage rates go up at the beginning of 2022.
 enclosure_type: video/mp4
 enclosure_time:
