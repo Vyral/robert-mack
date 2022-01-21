@@ -4,7 +4,8 @@ title: The Dangers of Trusting Non-Experts in Real Estate
 date: 2022-01-18 00:00:00
 tags:
 excerpt: Here’s why you should be wary of the real estate advice you get.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/The+Dangers+of+Trusting+Non-Experts+in+Real+Estate.mp4
 pullquote: We have one of the best reputations in the country.
 enclosure_type: video/mp4
 enclosure_time:
