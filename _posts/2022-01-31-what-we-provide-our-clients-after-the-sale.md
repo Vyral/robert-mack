@@ -5,7 +5,8 @@ date: 2022-01-31 00:00:00
 tags:
   - Real Estate
 excerpt: Here are seven things we love to provide our clients after the sale.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/What+We+Provide+Our+Clients+After+the+Sale.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -19,7 +20,7 @@ youtube_code: bETCUDEaoEI
 
 For most of our clients, we don’t just go away after we’ve helped them buy or sell a property. We strive to bring a lot to the table and be your real estate resource. Our business works by referral, so we continue to add value to the people who have supported us in the hope that you decide to support us again. Let’s go over the seven things we provide our clients after the sale so that you can take advantage of them if you’re not already.
 
-**You can watch the full message above, or you can skip to each section using the timestamps provided below:&nbsp;**
+**You can watch the full message above, or you can skip to each section using the timestamps provided below: **
 
 0:08 — Introducing today’s topic
 
