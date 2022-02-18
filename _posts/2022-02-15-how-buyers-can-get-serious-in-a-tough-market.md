@@ -16,7 +16,7 @@ youtube_code: JV7k1cxyfjQ
 
 {% include excerpt.html %}
 
-Without a doubt, we’re in the middle of the most challenging market for buyers I’ve seen in my 16-year career. If you aren’t in it to win it, you’ll struggle to find a good home. How can you put in the effort to achieve your buying goals? Let’s talk about it.&nbsp;
+Without a doubt, we’re in the middle of the most challenging market for buyers I’ve seen in my 16-year career. If you aren’t in it to win it, you’ll struggle to find a good home. How can you put in the effort to achieve your buying goals?&nbsp;
 
 First, let’s discuss the difference between easy things and difficult things. If you compare a half-mile walk to an Iron Man competition, it’s clear that the short walk is easier. Iron Man competitions are known for being hard, and people who compete in them know what they’re getting into.&nbsp;
 
