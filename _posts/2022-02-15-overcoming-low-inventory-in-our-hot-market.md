@@ -17,7 +17,7 @@ youtube_code: oAnBhvogirY
 
 {% include excerpt.html %}
 
-Are you afraid to sell your home because you don’t know where you’ll live after? You aren’t alone. This market is challenging in a lot of ways, but the biggest hurdle is our low inventory. This is great news when you sell your home, but it makes buying much more stressful. How can you overcome this challenge and take advantage of our fantastic market? Today I want to give you some options.&nbsp;
+Are you afraid to sell your home because you don’t know where you’ll live afterward? You aren’t alone. This market is challenging in a lot of ways, but the biggest hurdle is our low inventory. This is great news when you sell your home, but it makes buying much more stressful. How can you overcome this challenge and take advantage of our fantastic market? Today I want to give you some options.&nbsp;
 
 **You can watch my full explanation in the video above, or you can skip to each topic using the timestamps provided:**
 
@@ -37,4 +37,4 @@ Are you afraid to sell your home because you don’t know where you’ll live af
 
 5:36 — Wrapping things up
 
-If you are anyone you know is struggling in this housing market, please call or email my team. We’d love to help you in any way we can\!&nbsp;
+If you or anyone you know is struggling in this housing market, please call or email my team. We’d love to help you in any way we can\!&nbsp;
