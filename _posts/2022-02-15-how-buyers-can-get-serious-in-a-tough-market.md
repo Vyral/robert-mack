@@ -9,7 +9,7 @@ pullquote: 'Prepare yourself for our market because if you don’t, someone else
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/robert-mack-ss-youtube-34.jpg
+youtube_alternate_image: /uploads/robert-mack-ss-youtube-37.jpg
 youtube_code: JV7k1cxyfjQ
 ---
 {% include youtube.html %}
