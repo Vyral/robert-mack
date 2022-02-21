@@ -5,7 +5,8 @@ date: 2022-02-15 00:00:00
 tags:
   - Real Estate
 excerpt: 'If you’re looking to sell without going homeless, you have options. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Overcoming+Low+Inventory+in+our+Hot+Market.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
