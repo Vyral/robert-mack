@@ -20,7 +20,7 @@ Think about something you’ve been wanting to do for a very long time. Are you 
 
 **A lot of us wait for things to be perfect before we take action.** However, it won’t be perfect most of the time, so many of us just don’t take action. That is the sad truth.
 
-When it comes to real estate, everyone always wants it to be perfect. It’s not the perfect time to buy, so I’m going to stay out of the market. In reality, when’s the last time something was perfect?&nbsp;
+When it comes to real estate, everyone always wants it to be perfect. It’s not the best time to buy, so I’m going to stay out of the market. In reality, when’s the last time something was perfect?&nbsp;
 
 {% include pullquote.html %}
 
@@ -30,4 +30,4 @@ Are you the type of buyer or seller who’s waiting for the perfect time? Truthf
 
 My team and I rarely work with people who have the perfect scenario. However, we hear from people all the time who wish they had bought a home three years ago when we told them to. Whatever the reason, too many people wait for the perfect time and get nothing done because of it.
 
-If you know someone who might value this video, send it to them. If you’re looking to buy or sell, my team and I would love the opportunity to serve you. Also, if you have any ideas for future videos, send those my way as well.
+If you know someone who might value this video, send it to them. If you’re looking to buy or sell, my team and I would love the opportunity to serve you. Just call or email us; we look forward to hearing from you. Also, if you have any ideas for future videos, send those my way as well.
