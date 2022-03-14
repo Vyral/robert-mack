@@ -26,7 +26,7 @@ I work with dozens of buyers and sellers who ask these sorts of hypothetical que
 
 {% include pullquote.html %}
 
-A lot of people are afraid of reaching out to an agent because they think they’ll be pressured to make a decision they aren’t ready for. In reality, my team and I can do so much for our clients beyond buying and selling. We have dozens of services that can help you make some of the hardest decisions in your life.
+A lot of people are afraid of reaching out to an agent because they think they’ll be pressured to decide before they're ready. In reality, my team and I can do so much for our clients beyond buying and selling. We have dozens of services that can help you make some of the hardest decisions in your life.
 
 If you’re a buyer or seller, let’s explore your options. There’s never any cost, commitment, or obligation. Our goal is to enable you to make the best decisions you can.
 
