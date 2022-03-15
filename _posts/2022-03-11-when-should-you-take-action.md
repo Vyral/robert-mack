@@ -4,7 +4,8 @@ title: When Should You Take Action?
 date: 2022-03-11 00:00:00
 tags:
 excerpt: If you’re wondering when to take action, it’s time to explore your options.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/When+Should+You+Take+Action_.mp4
 pullquote: Our goal is to enable you to make the best decisions you can.
 enclosure_type: video/mp4
 enclosure_time:
