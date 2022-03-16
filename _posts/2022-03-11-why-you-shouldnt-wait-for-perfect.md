@@ -4,7 +4,8 @@ title: Why You Shouldn’t Wait for Perfect
 date: 2022-03-11 00:00:00
 tags:
 excerpt: Why waiting for things to be perfect will hurt you in the long run.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Why+You+Shouldn%E2%80%99t+Wait+for+Perfect.mp4
 pullquote: It’s probably never going to be perfect.
 enclosure_type: video/mp4
 enclosure_time:
