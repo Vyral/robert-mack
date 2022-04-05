@@ -39,4 +39,4 @@ Are we currently dealing with an out-of-control housing market? Neither buyers n
 
 6:41 — Wrapping up today’s topic
 
-If you’re planning to buy or sell a home soon, it’s critical that you connect with a real estate professional to help you get the ball rolling. If you need any assistance with your next transaction or you have any questions, give me a call or send me an email. I look forward to hearing from you.
+If you’re planning to buy or sell a home soon, it’s critical that you connect with a real estate professional to help you get the ball rolling. If you have question or need any assistance with your next transaction, give me a call or send me an email. I look forward to hearing from you.
