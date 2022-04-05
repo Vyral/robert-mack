@@ -5,7 +5,8 @@ date: 2022-04-04 16:03:33
 tags:
   - Market Update
 excerpt: Is this market out of control? Well, that depends on who you talk to.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Stats+%26+Advice+for+Today%E2%80%99s+Buyers+%26+Sellers.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
