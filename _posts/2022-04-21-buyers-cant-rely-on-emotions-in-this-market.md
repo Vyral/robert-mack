@@ -5,7 +5,8 @@ date: 2022-04-21 14:42:41
 tags:
   - Home Buyer Tips
 excerpt: How homebuyers can lessen their emotions to get a great deal.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/Buyers+Can%E2%80%99t+Rely+on+Emotions+in+This+Market.mp4
 pullquote: >-
   If you’re shopping for a primary residence, your monthly payment should be
   your main concern. 
