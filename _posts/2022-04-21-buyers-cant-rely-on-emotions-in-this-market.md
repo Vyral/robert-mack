@@ -4,7 +4,7 @@ title: Buyers Can’t Rely on Emotions in This Market
 date: 2022-04-21 14:42:41
 tags:
   - Home Buyer Tips
-excerpt: Here’s how buyers can take out their emotions and get serious.
+excerpt: How homebuyers can lessen their emotions to get a great deal.
 enclosure:
 pullquote: >-
   If you’re shopping for a primary residence, your monthly payment should be
@@ -29,7 +29,7 @@ In my experience, there are three things buyers can do to dive into the market s
 
 {% include pullquote.html %}
 
-**2\. Find an amazing agent.** Do some research online, ask your friends, and conduct interviews to find the best agent possible. Find someone you can build rapport with and be vulnerable with. When it comes time to make an offer, you need to take your emotions out of the decision. That’s why you need an agent you can confide in. I find that clients who tell me exactly what they want are easier to help, so don’t be afraid to share with your Realtor.&nbsp;
+**2\. Find an amazing agent.** Do some research online, ask your friends, and conduct interviews to find the best agent possible. Hire someone with whom you can build rapport and be vulnerable. When it comes time to make an offer, you need to take your emotions out of the decision. That’s why you want an agent in whom you can confide. I find that clients who tell me exactly what they want are easier to help, so don’t be afraid to share with your Realtor.&nbsp;
 
 **3\. Fall in love with the numbers.** Interest rates and prices are rising, so you need to focus on the math. There’s a lot of noise out there about the economy and housing market, but if you plan on staying in your home for a while, you should be focused on the long term. The everyday ups and downs of the market only really matter for investors and flippers. If you’re shopping for a primary residence, your monthly payment should be your primary concern.&nbsp;
 
