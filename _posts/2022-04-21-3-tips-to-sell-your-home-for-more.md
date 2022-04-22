@@ -5,7 +5,8 @@ date: 2022-04-21 14:51:17
 tags:
   - Home Seller Tips
 excerpt: Here’s how you can sell without emotion and receive top dollar.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Robert+Mack/3+Tips+To+Sell+Your+Home+for+More.mp4
 pullquote: >-
   You need to let go of your emotions and understand that your property is a
   product.
