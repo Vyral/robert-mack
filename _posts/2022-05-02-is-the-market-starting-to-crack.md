@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/robert-mack-ss-youtube-3.jpg
-youtube_code: 6T8AxEFI-Ps
+youtube_code: az5nJf6QLKQ
 ---
 {% include youtube.html %}
 
