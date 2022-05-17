@@ -18,13 +18,13 @@ youtube_code: LbZCpnIC6e8
 
 Are you thinking of buying a home soon? If so, you need to make sure you aren’t walking into a money pit. Today I want to discuss how you can properly inspect a home and know what you’re getting yourself into.&nbsp;
 
-The truth is that general inspections might not uncover every issue in a home. That’s why **I always recommend these three different home inspections,** depending on the type of property you’re buying:
+The truth is that a general inspection might not uncover every issue in a home. That’s why **I always recommend these three different home inspections,** depending on the type of property you’re buying:
 
 1. The general inspection
 2. A roof inspection&nbsp;
 3. A sewer line inspection
 
-In total, these inspections will cost you less than $1,000, but they could save you a ton. When you’re buying a property that’s $800,000 or more, that’s a drop in the bucket.
+In total, these inspections will cost you less than $1,000, but they could save you a ton of money. When you’re buying a property that’s $800,000 or more, that’s a drop in the bucket.
 
 {% include pullquote.html %}
 
