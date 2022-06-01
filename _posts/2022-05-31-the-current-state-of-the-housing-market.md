@@ -18,7 +18,7 @@ youtube_code: 2ZUW2cbnUXk
 
 The housing market has been very competitive for the last couple of years, and homes have appreciated extremely aggressively. That has many people worried about a crash, but should they be? Our market is definitely shifting, so today I’ll give you an overview of the situation the housing market is in and where things will go from here. Homes that are overpriced, in poor condition, or in an inferior location are going to be harder to sell and will accumulate on the market. Sellers should no longer expect instantaneous success, which will become less likely as the year progresses and market times continue to rise.
 
-**Feel free to watch the full message, or use these timestamps to browse specific topics at your leisure:**
+**Feel free to watch the full message or use these timestamps to browse specific topics at your leisure:**
 
 0:00 — Introducing today’s topic
 
