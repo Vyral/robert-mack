@@ -20,7 +20,7 @@ When it comes time to sell your property, don’t expect instantaneous results. 
 
 Steven Thomas writes in a recent housing report, *“Homes that are overpriced, in poor condition, or in an inferior location, are going to be harder to sell, and will accumulate on the market. Sellers should no longer expect instantaneous success, which will become less likely as the year progresses and market items continue to rise.”*&nbsp;
 
-**The bottom line is that interest rates are going up, and affordability is falling.** Inventory is climbing, so buyers have more choices. Demand is also dropping. There’s a narrative out there stating that the market will crash. No one has a crystal ball; nobody knows what will happen in the next 12 to 24 months. Many economists are predicting around 3% to 4% appreciation, while some people I trust expect a correction in two years. However, it’s all speculation. No one really knows what’s going on with 100% accuracy.
+**The bottom line is that interest rates are going up, and affordability is falling.** Inventory is climbing, so buyers have more choices. Demand is also dropping. There’s a narrative out there stating that the market will crash. No one has a crystal ball—nobody knows what will happen in the next 12 to 24 months. Many economists are predicting around 3% to 4% appreciation, while some people I trust expect a correction in two years. However, it’s all speculation.
 
 What we do know is that even though inventory is up over 150% from January, it’s still down 50% since 2019. **We’re still in a strong seller’s market.** The supply is so low that even though demand has fallen, there is still plenty for the right properties.&nbsp;
 
