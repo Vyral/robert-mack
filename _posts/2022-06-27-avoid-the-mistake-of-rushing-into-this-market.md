@@ -22,10 +22,8 @@ A while back, some friends asked me if I wanted to do an Ironman competition wit
 
 {% include pullquote.html %}
 
-**Entering this real estate market is no different than entering a difficult triathlon.** Tons of buyers and sellers reach out and tell me that they’re ready to make a move right this instant. When I explain that we need to prepare for a few weeks first, many of them are disappointed or frustrated.&nbsp;
+**Entering this real estate market is no different than entering a difficult triathlon.** Tons of buyers and sellers reach out and tell me that they’re ready to make a move right this instant. When I explain that we need to prepare for a few weeks first, many of them are disappointed or frustrated. It’s important to remember that every minute you spend planning will save you 10 minutes down the road. Buying or selling a home is one of the biggest financial decisions the average person makes in their lifetime. This is not something you want to rush.&nbsp;
 
-It’s important to remember that every minute you spend planning will save you 10 minutes down the road. Buying or selling a home is one of the biggest financial decisions the average person makes in their lifetime. This is not something you want to rush.&nbsp;
-
-Preparation is key in any market, but our current one is in the middle of a big shift. Interest rates are rising quickly, and inventory is no longer at record lows. **If you don’t work with an expert real estate team and skip preparation, it could bite you later.** I’d love to work with you if you are making a move in Southern California, but I can also provide a referral if you are moving somewhere else.&nbsp;
+Preparation is key in any market, but our current one is in the middle of a big shift. Interest rates are rising quickly, and inventory is no longer at record lows. **If you skip preparation and don’t work with an expert real estate team, it could bite you later.** I’d love to work with you if you are making a move in Southern California, but I can also provide a referral if you are moving somewhere else.&nbsp;
 
 If you have questions about planning or anything else, please call or email me. I look forward to hearing from you\!
