@@ -9,7 +9,7 @@ pullquote: Every minute you spend planning will save you 10 minutes down the roa
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/robert-mack-youtube-1.jpg
+youtube_alternate_image: /uploads/robert-mack-youtube-2.jpg
 youtube_code: VdmvbeYkxfs
 ---
 {% include youtube.html %}
