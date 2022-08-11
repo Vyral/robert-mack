@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Why Buyers Should Be Excited '
-date:
+date: 2022-08-11 00:00:00
 tags:
 excerpt: 'Five reasons why buyers should be excited about the state of the market. '
 enclosure:
