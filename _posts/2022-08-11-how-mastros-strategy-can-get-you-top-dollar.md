@@ -18,7 +18,7 @@ youtube_code: RjrQU0pbMsQ
 
 If you’re a homeowner, should you adapt Wendy’s or Mastro’s strategy when selling your property?
 
-At Mastro’s, presentation is a priority. From the food preparation to service to plating, it’s all about creating the best possible experience for the customer. Wendy’s on the other hand, is mostly concerned about serving their customers the fastest and easiest way. So which team are you? Do you focus on the presentation of your home like Mastro’s does with their food servings, or are you more like Wendy’s who piles food on their trays and leaves it at that?&nbsp;
+At Mastro’s, presentation is a priority. From the food preparation to service to plating, it’s all about creating the best possible experience for the customer. On the other hand, Wendy's is mostly concerned about serving their customers in the fastest and easiest way. Which team are you on? Do you focus on the presentation of your home like Mastro’s does, or are you more like Wendy’s, who piles food on their trays and leaves it at that?&nbsp;
 
 {% include pullquote.html %}
 
