@@ -4,7 +4,7 @@ title: Is Google Predicting a Housing Market Crash?
 date: 2022-08-25 00:00:00
 tags:
   - Market Update
-excerpt: Here are four key factors driving our local real estate market.
+excerpt: These are the four key factors driving our local real estate market.
 enclosure:
 pullquote: >-
   Your real estate decisions should depend on your situation, not national
@@ -19,7 +19,7 @@ youtube_code: lhOMrfr-WGI
 
 {% include excerpt.html %}
 
-Is Google predicting a housing market crash soon? When you type in “Is the real estate market” in the search bar, Google automatically fills in the words “going to crash in 2022?” Is this a sign of the end times, or does it just mean there’s a lot of confusion in our current market? Here are four market factors that answer this question:
+Is Google predicting a housing market crash soon? When you type “Is the real estate market” in the search bar, Google automatically fills in the words “going to crash in 2022?” Is this a sign of the end times, or does it just mean there’s a lot of confusion in our current market? Here are four facts that might help reduce some confusion:
 
 **1\. Buyers are distracted.** Families are going on vacation and enjoying the summer, so only the most dedicated buyers are still in the market.&nbsp;
 
@@ -27,8 +27,8 @@ Is Google predicting a housing market crash soon? When you type in “Is the rea
 
 {% include pullquote.html %}
 
-**3\. Affordability is down.** Mortgage interest rates are up, so the average buyer can afford less home.&nbsp;
+**3\. Affordability is down.** Mortgage interest rates are up, so the average buyer can afford less.&nbsp;
 
 **4\. This market is being compared to last year.** 2021 might have been the most competitive housing market ever. It doesn’t make sense to compare our current conditions to those.
 
-Based on these factors, our market isn’t crashing, but it is slowing down. So is it a good time to buy or sell a home? Honestly, the answer depends on your situation. If you’d like to know what decision makes sense for you, just call or email us. We’d love to help\!
+Based on these factors, our market isn’t crashing, but it is slowing. Then is it a good time to buy or sell a home? Honestly, the answer depends on your situation. If you’d like to know what decision makes sense for you, just call or email us. We’d love to help\!
