@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4 Tips for Buyers in Our Crazy Market
+title: 4 Tips Every Homebuyer Needs To Know
 date: 2022-10-06 00:00:00
 tags:
   - Home Buyer Tips
@@ -19,12 +19,12 @@ youtube_code: y35l7rMLgOk
 
 It’s not always a great time to buy for everyone, but if it’s the right time for you, here are four ways to set yourself up for success:
 
-1. **Figure out your motivation.** Do you have a need to buy? You might be moving up or moving down. You could be an empty-nester or facing a job relocation. Are you truly motivated?
+**1\. Figure out your motivation.** Do you have a need to buy? You might be moving up or moving down. You could be an empty nester or facing a job relocation. Are you truly motivated?
 
-1. **Educate yourself.** Do you know enough about becoming a successful buyer? You need to speak to a real estate agent to understand the real estate process. Consult a lender about your loan options.
+**2\. Educate yourself.** Do you know enough about becoming a successful buyer? You need to speak to a real estate agent to understand the real estate process. Also, consult a lender about your loan options.
 
-1. **Save up the necessary funds.** Do you have enough for a down payment? You need a steady income and a stable job to afford a new home payment.
+**3\. Save up the necessary funds.** Do you have enough for a down payment? You need a steady income and a stable job to afford a new home payment.
 
-1. **Create a strategy.** Whether you are looking to purchase in one month or one year, it’s never too early to sit down and put a strategy together. Remember: If you fail to plan, you plan to fail.
+**4\. Create a strategy.** Whether you are looking to purchase in one month or one year, it’s never too early to sit down and put a strategy together. Remember: If you fail to plan, you plan to fail.
 
 If you’re considering buying in this shifting market, feel free to reach out\! Call me or email me, and I’ll answer any questions you might have about buying a home today.
