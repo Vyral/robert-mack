@@ -30,6 +30,6 @@ In January, interest rates were between 3% and 3.25%. Today they’re between 7%
 
 Then what should people do about that? A couple of my suggestions for buyers would be to **check their motivation and look at financing options.** Rates are high, but there are still a lot of pros for buyers in this market. Lenders can use creative financing, there are more homes for sale, there’s more time to make a thoughtful decision, prices can be negotiated again, terms are more favorable, and rates can be bought down.&nbsp;
 
-Then for sellers, I have a few tips on how to thrive in this market: Check your motivation, hire a professional, price your home correctly, prepare your home well, keep an open mind, and use your proceeds wisely.&nbsp;
+For sellers to thrive in this market, you should check your motivation, hire a professional, price your home correctly, prepare your home well, keep an open mind, and use your proceeds wisely.&nbsp;
 
 I truly believe that both buyers and sellers can do well in this current market. If you have any questions or want help with your specific situation, don’t hesitate to reach out\! You can call or email me anytime; I’d love to hear from you.
