@@ -12,13 +12,13 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/robert-mack-yt-3.jpg
-youtube_code: VFqbhR2l-cE
+youtube_code: 0IWEszjJ_jI
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-As you probably know by now, our housing market has been changing dramatically over the last couple of months. For a while, home sales were decreasing, inventory was rising, and interest rates just kept going up. Now that we’re in the middle of November, things have settled down a little bit. Where is our housing market at now, and what does it mean for you?&nbsp;
+As you probably know by now, our housing market has been changing dramatically over the last couple of months. For a while, home sales were decreasing, inventory was rising, and interest rates just kept going up. Now that we’re in the middle of November, things have settled down a little bit. Where is our housing market at now, and what does it mean for you?
 
 **You can listen to my full answer in the video above or skip to each topic using the timestamps provided:**
 
