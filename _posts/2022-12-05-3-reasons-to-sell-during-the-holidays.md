@@ -18,7 +18,7 @@ youtube_code: YqGn0ZDjtcQ
 
 {% include excerpt.html %}
 
-Sellers, should you list your home during the holiday season? Many homeowners think that it's a bad time to list, but it’s actually quite the opposite. Here are three reasons why it might be a great time to sell your home during the holiday season:&nbsp;
+Sellers, should you list your home during the holiday season? Many homeowners think that it's a bad time to list, but it’s quite the opposite. Here are three reasons why it might be a great time to sell your home during the holiday season:&nbsp;
 
 **1\. Less competition.** The narrative says it's not a good time to sell during the holidays, so many sellers are taking their homes off the market or waiting until the new year to put them on the market. That means less competition now and more competition in the new year if you wait.
 
