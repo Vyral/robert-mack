@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Connect With an Agent Sooner Rather Than Later2
+title: Connect With an Agent Sooner Rather Than Later
 date: 2022-12-19 00:00:00
 tags:
   - Home Buyer Tips
