@@ -18,16 +18,16 @@ youtube_code: iUJkgZ-HLeE
 
 {% include excerpt.html %}
 
-What’s our housing market shaping up to look like for 2023? There are a lot of moving parts in our housing market, so today I’ll break everything down and explain what it means for buyers and sellers.&nbsp;
+What’s our housing market looking like in 2023? There are a lot of moving parts in our housing market, so today I’ll break everything down and explain what it means for buyers and sellers.&nbsp;
 
-First, let's talk about interest rates. They have been a hot topic lately, and are hovering right around the low 6% range, which is great news. **We are actually experiencing the lowest interest rates that we've seen since last September,** and mortgage applications are up 28% since last month. Buyers are finding relief in their affordability, and sellers have more demand.&nbsp;
+First, let's talk about interest rates. They have been a hot topic lately, and are hovering right around the low 6% range, which is great news. **We are experiencing the lowest interest rates that we've seen since last September,** and mortgage applications are up 28% since last month. Buyers are finding relief in their affordability, and sellers have more demand.&nbsp;
 
-Next, let’s talk about inventory. In the beginning of 2022, we had about 1,000 homes available for sale. Now, we have about 2,500 homes available for sale. To put this into perspective, before the pandemic, we had about 6,000 homes available for sale. So, we're still dealing with low inventory.
+Next, let’s talk about inventory. At the beginning of 2022, we had about 1,000 homes available for sale. Now, we have about 2,500. To put this into perspective, before the pandemic, we had about 6,000 homes available for sale, so we're still dealing with low inventory.
 
 {% include pullquote.html %}
 
-As far as housing prices go, every area and house is different. Some people think houses will appreciate like normal, while others think our market might even out. Either way, homes are still selling for great prices if they do the right things. But the bottom line is, we're not seeing prices soaring and shooting up like they did last year.&nbsp;
+As far as housing prices go, every area and house is different. Some people think houses will appreciate like normal, while others think our market might even out. Either way, homes are still selling for great prices if their sellers do the right things. The bottom line is we're not seeing prices soaring and shooting up like they did last year.&nbsp;
 
-One of the best things about our current market is that buyers can negotiate again. Before, you just had to put in your best offer and cross your fingers. Now, you can actually have a conversation with your seller. In many cases, sellers are willing to help you buy down your interest rate to make their price more affordable. **This way, both parties win.&nbsp;**
+One of the best things about our current market is that buyers can negotiate again. Before, you just had to put in your best offer and cross your fingers. Now, you can have a conversation with your seller, and in many cases, they're willing to help you buy down your interest rate to make their price more affordable. **This way, both parties win.&nbsp;**
 
 If you have questions about how you can navigate this market, please do not hesitate to call or email me. I am always willing to help!
