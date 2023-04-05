@@ -5,8 +5,8 @@ date: 2023-04-04 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Three tips to help you remove fear from your home-buying process.
-enclosure: Don't let uncertainty hold you back from taking action.
-pullquote:
+enclosure:
+pullquote: Don't let uncertainty hold you back from taking action.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -19,12 +19,12 @@ youtube_code: axN6I9xeNXw
 
 Are you considering buying a home, but feeling uncertain about the current state of the marketplace? You're not alone. Uncertainty can lead to doubt, which can then lead to fear and paralysis. But, there are ways to eliminate uncertainty and create more certainty, which can lead to taking action. Here are three things to focus on if you're considering buying a home:
 
-**1\. Job security.** The first thing to focus on is your job security. Do you have a stable job with good income? If you do, and you can afford to buy a home, that's a good sign. A stable job will help ensure that you can continue to make mortgage payments and maintain your home over the long term.
+**1\. Job security.**&nbsp;Do you have a stable job with good income? If you do, and you can afford to buy a home, that's a good sign. A stable job will help ensure that you can continue to make mortgage payments and maintain your home over the long term.
 
 {% include pullquote.html %}
 
-**2\. Loan options.** The second thing to consider is your loan options. Have you spoken to a lender? It always comes down to math. Forget about what's going on in the marketplace. Forget about where interest rates are or whether prices are going up or down. If you're motivated enough to buy and plan on living in the property long term, just get pre-approved and figure out what your total monthly payment will be. Then, determine if that payment falls within your budget.
+**2\. Loan options.**&nbsp;Have you spoken to a lender? It always comes down to math. Forget about what's going on in the marketplace. Forget about where interest rates are or whether prices are going up or down. If you're motivated enough to buy and plan on living in the property long term, just get preapproved and figure out what your total monthly payment will be. Then, determine if that payment falls within your budget.
 
-**3\. Motivation.** The third thing to consider is your motivation to buy. If you have a high motivation to buy and you can afford it, and your job is stable, then now may be the best time. Don't let uncertainty hold you back from making a decision that could improve your life in the long term.
+**3\. Motivation.**&nbsp;If you have a high motivation to buy and you can afford it, and your job is stable, then now may be the best time. Don't let uncertainty hold you back from making a decision that could improve your life in the long term.
 
-If you have a stable job and can afford to buy, don't let uncertainty hold you back from taking action. By focusing on these three factors, you can eliminate uncertainty and move forward with confidence in your decision to buy a home. If you have any questions, don’t hesitate to reach out to me.
+By focusing on these three factors, you can eliminate uncertainty and move forward with confidence in your decision to buy a home. If you have any questions, don’t hesitate to reach out to me. You can call or email me anytime, and I look forward to hearing from you!
