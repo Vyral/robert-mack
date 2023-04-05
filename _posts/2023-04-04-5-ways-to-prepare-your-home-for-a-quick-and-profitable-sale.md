@@ -17,9 +17,9 @@ youtube_code: vTlZfEyDp_Y
 
 {% include excerpt.html %}
 
-Selling your own home can be a daunting task, but it can also be a rewarding one. However, before you list your property, there are a few things you must know. In this article, we will discuss five ways to maximize the emotional connection between your home and potential buyers, ultimately leading to a better selling price:
+Selling your home can be a daunting task, but it can also be a rewarding one. Before you list your property, there are a few things you must know. Today&nbsp; we will discuss five ways to maximize the emotional connection between your home and potential buyers, ultimately leading to a better selling price.
 
-**1\. Make repairs before you list.** Buyers want to see a property that is well-maintained and move-in ready. Even minor defects or eyesores can turn off potential buyers. Therefore, it's essential to make any necessary repairs before you list your property. Not only will this improve the overall appearance of your home, but it will also show buyers that you have taken care of the property.
+**1\. Repairs.**&nbsp;Buyers want to see a property that is well-maintained and move-in ready. Even minor defects or eyesores can turn off potential buyers. Therefore, it's essential to make any necessary repairs before you list your property. Not only will this improve the overall appearance of your home, but it will also show buyers that you have taken care of the property.
 
 **2\. Paint.** One of the easiest and most affordable ways to update your home's look is to give it a fresh coat of paint. If your home looks dark or outdated, consider brightening it up with some fresh white paint. Not only will it make your home feel more inviting, but it will also give buyers a blank slate to imagine themselves in the space.
 
@@ -31,4 +31,4 @@ Selling your own home can be a daunting task, but it can also be a rewarding one
 
 **5\. Price.** One of the most critical factors in selling your home is pricing it correctly. Pricing your property too high can lead to it sitting on the market for months, ultimately resulting in a lower selling price. Therefore, it's essential to price your home at or slightly below market value for the best results.
 
-By following these five tips, you can maximize the emotional connection between your home and potential buyers, ultimately leading to a better selling price. If you have any questions, don’t hesitate to reach out to us by phone or email. We’d love to help you.
+By following these five tips, you can maximize the emotional connection between your home and potential buyers, ultimately leading to a better sales price. If you have any questions, don’t hesitate to reach out to us by phone or email. We’d love to help you.
