@@ -19,7 +19,7 @@ youtube_code: lIsOsCTXSUo
 
 Are homes still receiving multiple offers? Despite interest rates being much higher than they were in 2021, we continue to see many homes get multiple offers. While affordability has decreased, there are a few factors that contribute to this trend.&nbsp;
 
-Firstly,inventory levels remain significantly low, with just over 2,000 homes available for sale in Orange County. In comparison, 2019 was a low inventory year, but there were 6,500 homes available at that time. **Currently, inventory is about 70% lower than in 2019.**
+Firstly, inventory levels remain significantly low, with just over 2,000 homes available for sale in Orange County. In comparison, 2019 was a low inventory year, but there were 6,500 homes available at that time. **Currently, inventory is about 70% lower than in 2019.**
 
 Secondly, demand remains high. About 1,600 homes were sold in the previous month, resulting in an absorption rate of 1.3 months. This means that, without new listings, all available homes would be sold in 1.3 months. For context, in 2019, there were 7,000 homes available for sale and 3,000 sold monthly, yielding an absorption rate of 2.5 months.
 
