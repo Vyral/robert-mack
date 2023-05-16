@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/robert-mack-sellers-yt-10.jpg
-youtube_code: Qf2zcsGUDw
+youtube_code: kQf2zcsGUDw
 ---
 {% include youtube.html %}
 
