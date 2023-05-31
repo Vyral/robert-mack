@@ -19,9 +19,9 @@ youtube_code: gsO6gXQPTB8
 
 {% include excerpt.html %}
 
-Today, I want to address all the buyers navigating a challenging market with low inventory. If you're an agent feeling frustrated with the slim pickings, this message is for you too. Waiting for properties to be listed on the MLS isn't enough. It's time to take proactive steps to create inventory for yourself or your clients. Here are three effective strategies:
+Today, I’m here to address all of the buyers who are navigating this challenging market with low inventory. If you're an agent feeling frustrated with the slim pickings, this message is for you too. Waiting for properties to be listed on the MLS isn't enough. It's time to take proactive steps to create inventory for yourself or your clients. Here are three effective strategies:
 
-**1\.&nbsp; &nbsp; Engage with the community.** Door-knock, mail, or call neighborhoods where you and your clients are interested in buying. Just because a property isn't listed doesn't mean someone in that community isn't considering selling. Stir the pot by reaching out and uncovering potential sellers who may not have listed their homes yet.
+**1\. Engage with the community.** Door-knock, mail, or call neighborhoods where you and your clients are interested in buying. Just because a property isn't listed doesn't mean someone in that community isn't considering selling. Stir the pot by reaching out and uncovering potential sellers who may not have listed their homes yet.
 
 {% include pullquote.html %}
 
