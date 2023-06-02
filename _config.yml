@@ -5,46 +5,42 @@ baseurl: ""
 # Change for production:
 url: "https://robertmackway.com"
 
-# Build settings
-markdown: kramdown
-
 #Handling Reading
 encoding: "utf-8"
 
 # Build settings
 markdown: kramdown
 kramdown:
-  input: GFM
+    input: GFM
 highlighter: rouge
 
 paginate: 6
 permalink: none
 
 plugins:
-  - jemoji
-  - octopress-autoprefixer
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-admin
+    - jemoji
+    - octopress-autoprefixer
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-admin
 #  - jekyll-seo-tag
 
 # Excludes
 exclude:
-  - .sass-cache
-  - _site
+    - .sass-cache
+    - _site
 
 sass:
-  sass_dir: _sass
-  style: :nested
+    sass_dir: _sass
+    style: :nested
 
 defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-    values:
-      layout: "default"
+    - scope:
+          path: "" # an empty string here means all files in the project
+      values:
+          layout: "default"
 tags:
-  - Market Update
-  - Real Estate
-  - Home Buyer Tips
-  - Home Seller Tips
+    - Market Update
+    - Real Estate
+    - Home Buyer Tips
+    - Home Seller Tips
