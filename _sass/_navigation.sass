@@ -1,87 +1,102 @@
 .navbar-andross
-	border-bottom: 2px solid $theme
-	border-radius: 0
-	min-height: 52px
-	background: #ffffff
-	width: 100%
-	overflow: hidden
+    border-bottom: 2px solid $theme
+    border-radius: 0
+    min-height: 52px
+    background: #ffffff
+    width: 100%
+    overflow: hidden
 
 .navbar-andross .navbar-brand
-	color: $brand
-	padding-top: 20px
-	padding-bottom: 33px
-	font-size: 20px
-	text-transform: uppercase
-	max-width: 65%
+    color: $brand
+    padding-top: 20px
+    padding-bottom: 33px
+    font-size: 20px
+    text-transform: uppercase
+    max-width: 65%
 
 .navbar-nav>li
-	margin-right: 10px
-	margin-bottom: 0px
-	@include transition
+    margin-right: 10px
+    margin-bottom: 0px
+    @include transition
+
+.navbar-left, .navbar-right
+    display: flex
+    align-items: center
+
+.navbar-right
+    padding-top: 1rem
 
 .navbar-left>li>a
-	background: transparent
-	color: black
-	// padding: 1.3rem 2rem
-	text-transform: capitalize
-	font-size: 2rem
-	font-weight: 300
-	// border: 2px solid $button-border
-	// @include transition(0.3s)
-	&:hover
-		background: #eeeeee
-		color: $brand-dark
-		// border-top: 3px solid $brand
-		// @include transform(scale(1.05))
-		// @include transform(translateY(-0.2rem))
-	&:active
-		// box-shadow: 0 0 0 $brand-dark
-		@include transform(translateY(0rem))
-		text-decoration: none
-		color: $brand
-	&:focus
-		text-decoration: none
-		color: $brand
+    background: transparent
+    color: black
+    text-transform: capitalize
+    font-size: 2rem
+    font-weight: 300
+
+    &:hover
+        background: #eeeeee
+        color: $brand-dark
+
+    &:active
+        @include transform(translateY(0rem))
+        text-decoration: none
+        color: $brand
+
+    &:focus
+        text-decoration: none
+        color: $brand
+
+.nav-logo-container
+    a
+        padding: 0 !important
+
+.nav-logo
+    max-width: 60px !important
+    margin: 0
 
 .cta
-	background: transparent
-	color: $button-text
-	// padding: 1.3rem 2rem
-	text-transform: capitalize
-	font-size: 2rem
-	font-weight: 300
-	&:hover
-		background: #eeeeee
-		color: $brand-dark
-	&:active
-		text-decoration: none
-		color: $brand
-	&:focus
-		text-decoration: none
-		color: $brand
+    background: transparent
+    color: $button-text
+    text-transform: capitalize
+    font-size: 2rem
+    font-weight: 300
+    &:hover
+        background: #eeeeee
+        color: $brand-dark
+    &:active
+        text-decoration: none
+        color: $brand
+    &:focus
+        text-decoration: none
+        color: $brand
 
 .fa-bars
-	color: $brand
-
-.navbar-toggle
-	// margin-top: 20px
+    color: $brand
 
 .phone, .fa-phone
-	color: #fff
+    color: #fff
 
 .navbar
-	padding-right: 15px
-	padding-left: 15px
-	// height: 52px
+    padding-right: 15px
+    padding-left: 15px
 
+@media(max-width: 768px)
+    .navbar-left, .navbar-right
+        display: flex
+        align-items: flex-start
+        flex-direction: column
+        margin-top: 0
+
+    .nav-logo-container
+        display: none !important
 
 @media(max-width: 347px)
-	.navbar
-		padding-right: 5px
-		padding-left: 5px
-	.navbar-header
-		a.navbar-brand
-			width: 0
-			overflow: hidden
-			display: none
-			opacity: 0
+    .navbar
+        padding-right: 5px
+        padding-left: 5px
+    .navbar-header
+        a.navbar-brand
+            width: 0
+            overflow: hidden
+            display: none
+            opacity: 0
