@@ -25,7 +25,7 @@ Today, I want to address the concerns of those who may feel hesitant about makin
 
 When we talk about sales and supply and demand, it's important to note that supply is significantly lower, leading to increased demand. Now, let's delve into the question: How is the market? Often, people describe it as "bad" during certain periods. However, **I believe using that term isn't the most accurate choice.**
 
-Instead, I would describe the market as dynamic or different. Here's why: There will always be reasons why it may not seem like the ideal time to buy or sell. Let's reflect on the market in 2021, when everyone was referring to it as "hot." However, from my perspective, it wasn't necessarily advantageous for buyers, except for the fact that interest rates were low, ranging from high twos to low threes and occasionally even in the fours.
+Instead, I would describe the market as dynamic or different. Here's why: There will always be reasons why it may not seem like the ideal time to buy or sell. Let's reflect on the market in 2021 when everyone was referring to it as "hot." However, from my perspective, it wasn't necessarily advantageous for buyers, except for the fact that interest rates were low, ranging from high twos to low threes and occasionally even in the fours.
 
 While affordability-wise, buyers could justify overpaying for properties, given their lower monthly payments due to the low rates, they had to contend with fierce competition. Buyers found themselves competing against 30, 40, or even 50 other buyers, resulting in offers that were 10%, 15%, or even 20% above the actual market value. So, when we say the market was hot, it's crucial to understand the context and consider whether such a situation is favorable or not.
 
