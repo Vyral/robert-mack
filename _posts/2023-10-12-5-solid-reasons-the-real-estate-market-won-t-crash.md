@@ -19,11 +19,11 @@ youtube_code: CrqEw5pdEYc
 
 {% include excerpt.html %}
 
-Is the housing market crashing? While concerns about the stability of the housing market often arise, there are compelling reasons to believe that we may be in a more resilient position. Today I'll break down five key factors that indicate a more robust real estate landscape:&nbsp;
+Is the housing market crashing? While concerns about the stability of the housing market often arise, there are compelling reasons to believe that we may be in a more resilient position. Today, I'll break down five key factors that indicate a more robust real estate landscape:&nbsp;
 
 **1\. Distressed property inventory is currently low**.&nbsp; There are only four foreclosures and two short sales in Orange County, making up just 0.3% of the total inventory. In contrast, during the Great Recession, distressed properties comprised 67% of the inventory.
 
-**2\. Total inventory levels have significantly improved**. In 2007 during the Great Recession, we had 16,000 homes available, but today, we only have 2,475 properties available, and we're expecting it to decrease to around 1,500 by the end of the year. With such low inventory, demand remains high.
+**2\. Total inventory levels have significantly improved**. In 2007, during the Great Recession, we had 16,000 homes available, but today, we only have 2,475 properties available, and we're expecting it to decrease to around 1,500 by the end of the year. With such low inventory, demand remains high.
 
 {% include pullquote.html %}
 
