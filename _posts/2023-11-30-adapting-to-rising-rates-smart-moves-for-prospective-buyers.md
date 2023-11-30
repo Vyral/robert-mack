@@ -21,7 +21,7 @@ youtube_code: cL12CVgUsrQ
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}\=
+{% include excerpt.html %}
 
 In the current real estate market, buyers are facing the challenge of higher interest rates, with figures around 7% being daunting for many. It's understandable to feel overwhelmed when considering the impact of these rates on monthly payments. However, despite these conditions, buyers are still actively purchasing homes. Let’s explore three effective strategies our buyers are using to create affordability in this challenging market.
 
