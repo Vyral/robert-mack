@@ -15,7 +15,7 @@ pullquote: We are currently in a unique market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/robert-mack-sellers-yt-22.jpg
+youtube_alternate_image: /uploads/robert-mack-sellers-yt-1-1.jpg
 youtube_code: Ujfs11V5mkk
 ---
 {% include youtube.html %}
