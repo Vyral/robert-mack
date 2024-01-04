@@ -23,8 +23,6 @@ Are you planning to sell your home in the upcoming spring market? If so, there's
 
 Waiting until the last minute might seem like a reasonable plan, but it often backfires. Most homes aren't in optimal condition for maximum profit when initially assessed. Typically, they look like lived-in spaces, which is entirely normal. This is where the problem lies.
 
-{% include pullquote.html %}
-
 To ensure your home is in the best possible shape, we employ the "Five-Point RMG Audit." Here are the five key areas we consider:
 
 **1\. Carpet.** Is it time for a replacement or a professional cleaning?
