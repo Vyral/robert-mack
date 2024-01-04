@@ -38,4 +38,4 @@ If you're willing to negotiate with the seller and secure a buydown with your le
 
 However, if you don't consult with a lender and understand how rate fluctuations affect you, you may miss out on these opportunities. So, my best advice is this: If you have even a slight inkling of motivation to buy a property in 2024, talk to a lender now. Getting preapproved and understanding your financials carries no cost or obligation, but it empowers you with knowledge and puts you in the driver's seat.
 
-If you're looking for a recommendation to a reliable lender, feel free to send me a message. Don't let uncertainty hold you back from securing your dream home. Start the conversation today!
+If you're looking for a recommendation for a reliable lender, feel free to send me a message. Don't let uncertainty hold you back from securing your dream home. Start the conversation today!
