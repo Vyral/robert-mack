@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Timing Is Everything: Your Guide To Real Estate Success'
-date:
+date: 2024-01-22 11:00:00
 tags:
   - Market Update
 excerpt: Discover the optimal timing for buying or selling your home.
